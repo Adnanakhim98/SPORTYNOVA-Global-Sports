@@ -1,5 +1,64 @@
 {
-  "updated_at": null,
-  "count": 0,
-  "matches": []
+  "updated_at": "2026-11-09T23:44:20.698572+00:00",
+  "source": "https://kiwi-sports.mak2st.workers.dev",
+  "count": 2,
+  "sports_requested": [
+    "basketball",
+    "soccer",
+    "football",
+    "hockey",
+    "baseball",
+    "cricket",
+    "mma",
+    "tennis",
+    "golf",
+    "rugby",
+    "racing"
+  ],
+  "fetch_errors": [],
+  "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
+  "matches": [
+    {
+      "id": "1552531",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1552531-1",
+        "name": "New Zealand A"
+      },
+      "away": {
+        "id": "1552531-2",
+        "name": "India A"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "NZA is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1550711",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1550711-1",
+        "name": "Pakistan"
+      },
+      "away": {
+        "id": "1550711-2",
+        "name": "Sri Lanka"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "PAK is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    }
+  ]
 }
