@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T05:50:22.106428+00:00",
+  "updated_at": "2026-11-10T14:16:33.921243+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 5,
+  "count": 3,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,48 +19,6 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401892682",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "San Jose Sharks"
-      },
-      "away": {
-        "id": "12",
-        "name": "New York Islanders"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "End of OT",
-      "score": null,
-      "venue": "SAP Center at San Jose",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1552531",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1552531-1",
-        "name": "New Zealand A"
-      },
-      "away": {
-        "id": "1552531-2",
-        "name": "India A"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "NZA is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1550711",
       "sport": "cricket",
       "league": "Cricket",
@@ -75,7 +33,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "PAK is batting",
+      "status_detail": "SL is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -96,7 +54,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "IU is batting",
+      "status_detail": "UAE is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -117,7 +75,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "PU is batting",
+      "status_detail": "NU is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

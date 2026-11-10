@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T05:50:22.106428+00:00",
+  "updated_at": "2026-11-10T14:16:33.921243+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 5,
+  "count": 6,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -82,27 +82,6 @@
       "watch_links": []
     },
     {
-      "id": "1539439",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1539439-1",
-        "name": "New Zealand"
-      },
-      "away": {
-        "id": "1539439-2",
-        "name": "India"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "New Zealand v India",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1561259",
       "sport": "cricket",
       "league": "Cricket",
@@ -118,6 +97,48 @@
       "start_time": null,
       "status": "upcoming",
       "status_detail": "Emirates Eagles v UAE Bulls",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1544873",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1544873-1",
+        "name": "New South Wales"
+      },
+      "away": {
+        "id": "1544873-2",
+        "name": "South Australia"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "New South Wales v South Australia",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1544874",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1544874-1",
+        "name": "Victoria"
+      },
+      "away": {
+        "id": "1544874-2",
+        "name": "Western Australia"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Victoria v Western Australia",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
