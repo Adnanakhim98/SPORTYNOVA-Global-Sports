@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-09T23:44:20.698572+00:00",
+  "updated_at": "2026-11-10T05:50:22.106428+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 16,
+  "count": 5,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,254 +19,65 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401909952",
-      "sport": "basketball",
-      "league": "NBA",
+      "id": "401841311",
+      "sport": "soccer",
+      "league": "Brasileirão",
       "country": "",
       "home": {
-        "id": "1",
-        "name": "Atlanta Hawks"
+        "id": "9169",
+        "name": "Mirassol"
       },
       "away": {
-        "id": "13",
-        "name": "Los Angeles Lakers"
+        "id": "7632",
+        "name": "Atlético-MG"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "11/9 - 7:00 PM EST",
+      "status_detail": "Scheduled",
       "score": null,
-      "venue": "State Farm Arena",
+      "venue": "Estadio Municipal José Maria de Campos Maia",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401909953",
-      "sport": "basketball",
-      "league": "NBA",
+      "id": "401841175",
+      "sport": "soccer",
+      "league": "Brasileirão",
       "country": "",
       "home": {
-        "id": "30",
-        "name": "Charlotte Hornets"
+        "id": "9318",
+        "name": "Chapecoense"
       },
       "away": {
-        "id": "5",
-        "name": "Cleveland Cavaliers"
+        "id": "3454",
+        "name": "Vasco da Gama"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "11/9 - 7:00 PM EST",
+      "status_detail": "Scheduled",
       "score": null,
-      "venue": "Spectrum Center",
+      "venue": "Arena Condá",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401909954",
-      "sport": "basketball",
-      "league": "NBA",
+      "id": "401912519",
+      "sport": "soccer",
+      "league": "Copa Libertadores",
       "country": "",
       "home": {
+        "id": "2029",
+        "name": "Palmeiras"
+      },
+      "away": {
         "id": "8",
-        "name": "Detroit Pistons"
-      },
-      "away": {
-        "id": "27",
-        "name": "Washington Wizards"
+        "name": "Estudiantes de La Plata"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "11/9 - 7:00 PM EST",
+      "status_detail": "Scheduled",
       "score": null,
-      "venue": "Little Caesars Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909955",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "28",
-        "name": "Toronto Raptors"
-      },
-      "away": {
-        "id": "29",
-        "name": "Memphis Grizzlies"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 7:30 PM EST",
-      "score": null,
-      "venue": "Scotiabank Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909956",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Dallas Mavericks"
-      },
-      "away": {
-        "id": "11",
-        "name": "Indiana Pacers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 8:00 PM EST",
-      "score": null,
-      "venue": "American Airlines Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909957",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "10",
-        "name": "Houston Rockets"
-      },
-      "away": {
-        "id": "7",
-        "name": "Denver Nuggets"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 8:30 PM EST",
-      "score": null,
-      "venue": "Toyota Center (Houston)",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909958",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Phoenix Suns"
-      },
-      "away": {
-        "id": "24",
-        "name": "San Antonio Spurs"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 9:00 PM EST",
-      "score": null,
-      "venue": "Mortgage Matchup Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909959",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "9",
-        "name": "Golden State Warriors"
-      },
-      "away": {
-        "id": "3",
-        "name": "New Orleans Pelicans"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 10:00 PM EST",
-      "score": null,
-      "venue": "Chase Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873051",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "16",
-        "name": "Minnesota Vikings"
-      },
-      "away": {
-        "id": "2",
-        "name": "Buffalo Bills"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 8:15 PM EST",
-      "score": null,
-      "venue": "U.S. Bank Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892680",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Edmonton Oilers"
-      },
-      "away": {
-        "id": "13",
-        "name": "New York Rangers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 8:00 PM EST",
-      "score": null,
-      "venue": "Rogers Place",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892681",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "22",
-        "name": "Vancouver Canucks"
-      },
-      "away": {
-        "id": "15",
-        "name": "Philadelphia Flyers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 9:30 PM EST",
-      "score": null,
-      "venue": "Rogers Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892682",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "San Jose Sharks"
-      },
-      "away": {
-        "id": "12",
-        "name": "New York Islanders"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/9 - 10:00 PM EST",
-      "score": null,
-      "venue": "SAP Center at San Jose",
+      "venue": "Estadio Centenario",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -286,48 +97,6 @@
       "start_time": null,
       "status": "upcoming",
       "status_detail": "New Zealand v India",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1558440",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1558440-1",
-        "name": "India Under-19s"
-      },
-      "away": {
-        "id": "1558440-2",
-        "name": "United Arab Emirates Under-19s"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "India Under-19s v United Arab Emirates Under-19s",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1558441",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1558441-1",
-        "name": "Nepal Under-19s"
-      },
-      "away": {
-        "id": "1558441-2",
-        "name": "Pakistan Under-19s"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Nepal Under-19s v Pakistan Under-19s",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

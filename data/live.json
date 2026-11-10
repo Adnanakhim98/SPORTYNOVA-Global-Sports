@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-09T23:44:20.698572+00:00",
+  "updated_at": "2026-11-10T05:50:22.106428+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 2,
+  "count": 5,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,6 +18,27 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
+    {
+      "id": "401892682",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "18",
+        "name": "San Jose Sharks"
+      },
+      "away": {
+        "id": "12",
+        "name": "New York Islanders"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "End of OT",
+      "score": null,
+      "venue": "SAP Center at San Jose",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
     {
       "id": "1552531",
       "sport": "cricket",
@@ -55,6 +76,48 @@
       "start_time": null,
       "status": "live",
       "status_detail": "PAK is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1558440",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1558440-1",
+        "name": "India Under-19s"
+      },
+      "away": {
+        "id": "1558440-2",
+        "name": "United Arab Emirates Under-19s"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "IU is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1558441",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1558441-1",
+        "name": "Nepal Under-19s"
+      },
+      "away": {
+        "id": "1558441-2",
+        "name": "Pakistan Under-19s"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "PU is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
