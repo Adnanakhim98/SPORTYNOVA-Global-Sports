@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11T01:03:56.273719+00:00",
+  "updated_at": "2026-11-11T07:59:43.194728+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 9,
+  "count": 3,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,132 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401892683",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Toronto Maple Leafs"
-      },
-      "away": {
-        "id": "17",
-        "name": "Colorado Avalanche"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "20:00 - 2nd",
-      "score": null,
-      "venue": "Scotiabank Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892684",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "10",
-        "name": "Montreal Canadiens"
-      },
-      "away": {
-        "id": "30",
-        "name": "Minnesota Wild"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "End of 1st",
-      "score": null,
-      "venue": "Bell Centre",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892685",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "14",
-        "name": "Ottawa Senators"
-      },
-      "away": {
-        "id": "23",
-        "name": "Washington Capitals"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "20:00 - 2nd",
-      "score": null,
-      "venue": "Canadian Tire Centre",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892688",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "28",
-        "name": "Winnipeg Jets"
-      },
-      "away": {
-        "id": "11",
-        "name": "New Jersey Devils"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "20:00 - 2nd",
-      "score": null,
-      "venue": "Canada Life Centre",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892686",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "29",
-        "name": "Columbus Blue Jackets"
-      },
-      "away": {
-        "id": "26",
-        "name": "Florida Panthers"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "3:25 - 1st",
-      "score": null,
-      "venue": "Nationwide Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909960",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "New York Knicks"
-      },
-      "away": {
-        "id": "15",
-        "name": "Milwaukee Bucks"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "End of 1st",
-      "score": null,
-      "venue": "Madison Square Garden",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "1550711",
       "sport": "cricket",
@@ -180,7 +54,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "NSW is batting",
+      "status_detail": "SA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
