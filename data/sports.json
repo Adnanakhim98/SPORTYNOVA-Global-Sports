@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T20:56:44.514135+00:00",
+  "updated_at": "2026-11-11T01:03:56.273719+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 132,
+  "count": 131,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,6 +19,321 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
+      "id": "401873037",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "33",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "id": "30",
+        "name": "Jacksonville Jaguars"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "M&T Bank Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873038",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "1",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "id": "4",
+        "name": "Cincinnati Bengals"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Santiago Bernabéu",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873040",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "11",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "id": "6",
+        "name": "Dallas Cowboys"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Lucas Oil Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873045",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "12",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "id": "20",
+        "name": "New York Jets"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Arrowhead Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873042",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "15",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "id": "8",
+        "name": "Detroit Lions"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Hard Rock Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873039",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "18",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "id": "5",
+        "name": "Cleveland Browns"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final/OT",
+      "score": null,
+      "venue": "Caesars Superdome",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873044",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "21",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "id": "19",
+        "name": "New York Giants"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Lincoln Financial Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873043",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "28",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "id": "14",
+        "name": "Los Angeles Rams"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Northwest Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873041",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "29",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "id": "7",
+        "name": "Denver Broncos"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Bank of America Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873046",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "24",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "id": "34",
+        "name": "Houston Texans"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "SoFi Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873049",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "17",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "id": "9",
+        "name": "Green Bay Packers"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Gillette Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873047",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "25",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "id": "13",
+        "name": "Las Vegas Raiders"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Levi's Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873048",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "26",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "id": "22",
+        "name": "Arizona Cardinals"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Lumen Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873050",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "3",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "id": "27",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Soldier Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873051",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "16",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "id": "2",
+        "name": "Buffalo Bills"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "U.S. Bank Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401892683",
       "sport": "hockey",
       "league": "NHL",
@@ -32,8 +347,8 @@
         "name": "Colorado Avalanche"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "20:00 - 2nd",
       "score": null,
       "venue": "Scotiabank Arena",
       "source": "Kiwi Sports API",
@@ -53,8 +368,8 @@
         "name": "Minnesota Wild"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "End of 1st",
       "score": null,
       "venue": "Bell Centre",
       "source": "Kiwi Sports API",
@@ -74,8 +389,8 @@
         "name": "Washington Capitals"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "20:00 - 2nd",
       "score": null,
       "venue": "Canadian Tire Centre",
       "source": "Kiwi Sports API",
@@ -95,8 +410,8 @@
         "name": "New Jersey Devils"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "20:00 - 2nd",
       "score": null,
       "venue": "Canada Life Centre",
       "source": "Kiwi Sports API",
@@ -116,8 +431,8 @@
         "name": "Florida Panthers"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:30 PM EST",
+      "status": "live",
+      "status_detail": "3:25 - 1st",
       "score": null,
       "venue": "Nationwide Arena",
       "source": "Kiwi Sports API",
@@ -162,6 +477,153 @@
       "status_detail": "11/10 - 10:00 PM EST",
       "score": null,
       "venue": "crypto.com Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909960",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "18",
+        "name": "New York Knicks"
+      },
+      "away": {
+        "id": "15",
+        "name": "Milwaukee Bucks"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "End of 1st",
+      "score": null,
+      "venue": "Madison Square Garden",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909961",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "20",
+        "name": "Philadelphia 76ers"
+      },
+      "away": {
+        "id": "2",
+        "name": "Boston Celtics"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/10 - 8:00 PM EST",
+      "score": null,
+      "venue": "Xfinity Mobile Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909962",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "21",
+        "name": "Phoenix Suns"
+      },
+      "away": {
+        "id": "12",
+        "name": "LA Clippers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/10 - 9:00 PM EST",
+      "score": null,
+      "venue": "Mortgage Matchup Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909963",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "26",
+        "name": "Utah Jazz"
+      },
+      "away": {
+        "id": "14",
+        "name": "Miami Heat"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/10 - 9:00 PM EST",
+      "score": null,
+      "venue": "Delta Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909964",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "23",
+        "name": "Sacramento Kings"
+      },
+      "away": {
+        "id": "19",
+        "name": "Orlando Magic"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/10 - 10:00 PM EST",
+      "score": null,
+      "venue": "Golden 1 Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909965",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "22",
+        "name": "Portland Trail Blazers"
+      },
+      "away": {
+        "id": "25",
+        "name": "Oklahoma City Thunder"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/10 - 11:00 PM EST",
+      "score": null,
+      "venue": "Moda Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401918311",
+      "sport": "basketball",
+      "league": "WNBA",
+      "country": "",
+      "home": {
+        "id": "129689",
+        "name": "Golden State Valkyries"
+      },
+      "away": {
+        "id": "20",
+        "name": "Atlanta Dream"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Chase Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -2203,468 +2665,6 @@
       "watch_links": []
     },
     {
-      "id": "401873037",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "33",
-        "name": "Baltimore Ravens"
-      },
-      "away": {
-        "id": "30",
-        "name": "Jacksonville Jaguars"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "M&T Bank Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873038",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "1",
-        "name": "Atlanta Falcons"
-      },
-      "away": {
-        "id": "4",
-        "name": "Cincinnati Bengals"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Santiago Bernabéu",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873040",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "11",
-        "name": "Indianapolis Colts"
-      },
-      "away": {
-        "id": "6",
-        "name": "Dallas Cowboys"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Lucas Oil Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873045",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "12",
-        "name": "Kansas City Chiefs"
-      },
-      "away": {
-        "id": "20",
-        "name": "New York Jets"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Arrowhead Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873042",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "15",
-        "name": "Miami Dolphins"
-      },
-      "away": {
-        "id": "8",
-        "name": "Detroit Lions"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Hard Rock Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873039",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "New Orleans Saints"
-      },
-      "away": {
-        "id": "5",
-        "name": "Cleveland Browns"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final/OT",
-      "score": null,
-      "venue": "Caesars Superdome",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873044",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Philadelphia Eagles"
-      },
-      "away": {
-        "id": "19",
-        "name": "New York Giants"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Lincoln Financial Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873043",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "28",
-        "name": "Washington Commanders"
-      },
-      "away": {
-        "id": "14",
-        "name": "Los Angeles Rams"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Northwest Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873041",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "29",
-        "name": "Carolina Panthers"
-      },
-      "away": {
-        "id": "7",
-        "name": "Denver Broncos"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Bank of America Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873046",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "24",
-        "name": "Los Angeles Chargers"
-      },
-      "away": {
-        "id": "34",
-        "name": "Houston Texans"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "SoFi Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873049",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "17",
-        "name": "New England Patriots"
-      },
-      "away": {
-        "id": "9",
-        "name": "Green Bay Packers"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Gillette Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873047",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "25",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "id": "13",
-        "name": "Las Vegas Raiders"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Levi's Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873048",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "26",
-        "name": "Seattle Seahawks"
-      },
-      "away": {
-        "id": "22",
-        "name": "Arizona Cardinals"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Lumen Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873050",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "3",
-        "name": "Chicago Bears"
-      },
-      "away": {
-        "id": "27",
-        "name": "Tampa Bay Buccaneers"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Soldier Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873051",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "16",
-        "name": "Minnesota Vikings"
-      },
-      "away": {
-        "id": "2",
-        "name": "Buffalo Bills"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "U.S. Bank Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909960",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "New York Knicks"
-      },
-      "away": {
-        "id": "15",
-        "name": "Milwaukee Bucks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:30 PM EST",
-      "score": null,
-      "venue": "Madison Square Garden",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909961",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "20",
-        "name": "Philadelphia 76ers"
-      },
-      "away": {
-        "id": "2",
-        "name": "Boston Celtics"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 8:00 PM EST",
-      "score": null,
-      "venue": "Xfinity Mobile Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909962",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Phoenix Suns"
-      },
-      "away": {
-        "id": "12",
-        "name": "LA Clippers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 9:00 PM EST",
-      "score": null,
-      "venue": "Mortgage Matchup Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909963",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "26",
-        "name": "Utah Jazz"
-      },
-      "away": {
-        "id": "14",
-        "name": "Miami Heat"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 9:00 PM EST",
-      "score": null,
-      "venue": "Delta Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909964",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "23",
-        "name": "Sacramento Kings"
-      },
-      "away": {
-        "id": "19",
-        "name": "Orlando Magic"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 10:00 PM EST",
-      "score": null,
-      "venue": "Golden 1 Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909965",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "22",
-        "name": "Portland Trail Blazers"
-      },
-      "away": {
-        "id": "25",
-        "name": "Oklahoma City Thunder"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 11:00 PM EST",
-      "score": null,
-      "venue": "Moda Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401918311",
-      "sport": "basketball",
-      "league": "WNBA",
-      "country": "",
-      "home": {
-        "id": "129689",
-        "name": "Golden State Valkyries"
-      },
-      "away": {
-        "id": "20",
-        "name": "Atlanta Dream"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Chase Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "401908046",
       "sport": "baseball",
       "league": "MLB",
@@ -2707,27 +2707,6 @@
       "watch_links": []
     },
     {
-      "id": "1561259",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1561259-1",
-        "name": "Emirates Eagles"
-      },
-      "away": {
-        "id": "1561259-2",
-        "name": "UAE Bulls"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "UB is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1544873",
       "sport": "cricket",
       "league": "Cricket",
@@ -2741,8 +2720,8 @@
         "name": "South Australia"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "New South Wales v South Australia",
+      "status": "live",
+      "status_detail": "NSW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -2762,8 +2741,8 @@
         "name": "Western Australia"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Victoria v Western Australia",
+      "status": "live",
+      "status_detail": "VIC is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

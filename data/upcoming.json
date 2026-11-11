@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T20:56:44.514135+00:00",
+  "updated_at": "2026-11-11T01:03:56.273719+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 19,
+  "count": 11,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,111 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401892683",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Toronto Maple Leafs"
-      },
-      "away": {
-        "id": "17",
-        "name": "Colorado Avalanche"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
-      "score": null,
-      "venue": "Scotiabank Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892684",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "10",
-        "name": "Montreal Canadiens"
-      },
-      "away": {
-        "id": "30",
-        "name": "Minnesota Wild"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
-      "score": null,
-      "venue": "Bell Centre",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892685",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "14",
-        "name": "Ottawa Senators"
-      },
-      "away": {
-        "id": "23",
-        "name": "Washington Capitals"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
-      "score": null,
-      "venue": "Canadian Tire Centre",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892688",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "28",
-        "name": "Winnipeg Jets"
-      },
-      "away": {
-        "id": "11",
-        "name": "New Jersey Devils"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:00 PM EST",
-      "score": null,
-      "venue": "Canada Life Centre",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892686",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "29",
-        "name": "Columbus Blue Jackets"
-      },
-      "away": {
-        "id": "26",
-        "name": "Florida Panthers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:30 PM EST",
-      "score": null,
-      "venue": "Nationwide Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "401892687",
       "sport": "hockey",
@@ -162,90 +57,6 @@
       "status_detail": "11/10 - 10:00 PM EST",
       "score": null,
       "venue": "crypto.com Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401841311",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "9169",
-        "name": "Mirassol"
-      },
-      "away": {
-        "id": "7632",
-        "name": "Atlético-MG"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Estadio Municipal José Maria de Campos Maia",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401841175",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "9318",
-        "name": "Chapecoense"
-      },
-      "away": {
-        "id": "3454",
-        "name": "Vasco da Gama"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Arena Condá",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401912519",
-      "sport": "soccer",
-      "league": "Copa Libertadores",
-      "country": "",
-      "home": {
-        "id": "2029",
-        "name": "Palmeiras"
-      },
-      "away": {
-        "id": "8",
-        "name": "Estudiantes de La Plata"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Estadio Centenario",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909960",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "New York Knicks"
-      },
-      "away": {
-        "id": "15",
-        "name": "Milwaukee Bucks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/10 - 7:30 PM EST",
-      "score": null,
-      "venue": "Madison Square Garden",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -355,44 +166,65 @@
       "watch_links": []
     },
     {
-      "id": "1544873",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401841311",
+      "sport": "soccer",
+      "league": "Brasileirão",
       "country": "",
       "home": {
-        "id": "1544873-1",
-        "name": "New South Wales"
+        "id": "9169",
+        "name": "Mirassol"
       },
       "away": {
-        "id": "1544873-2",
-        "name": "South Australia"
+        "id": "7632",
+        "name": "Atlético-MG"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "New South Wales v South Australia",
+      "status_detail": "Scheduled",
       "score": null,
-      "venue": "",
+      "venue": "Estadio Municipal José Maria de Campos Maia",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1544874",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401841175",
+      "sport": "soccer",
+      "league": "Brasileirão",
       "country": "",
       "home": {
-        "id": "1544874-1",
-        "name": "Victoria"
+        "id": "9318",
+        "name": "Chapecoense"
       },
       "away": {
-        "id": "1544874-2",
-        "name": "Western Australia"
+        "id": "3454",
+        "name": "Vasco da Gama"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "Victoria v Western Australia",
+      "status_detail": "Scheduled",
       "score": null,
-      "venue": "",
+      "venue": "Arena Condá",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401912519",
+      "sport": "soccer",
+      "league": "Copa Libertadores",
+      "country": "",
+      "home": {
+        "id": "2029",
+        "name": "Palmeiras"
+      },
+      "away": {
+        "id": "8",
+        "name": "Estudiantes de La Plata"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estadio Centenario",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
