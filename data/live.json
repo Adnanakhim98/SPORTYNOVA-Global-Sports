@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11T07:59:43.194728+00:00",
+  "updated_at": "2026-11-11T16:03:02.124322+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 3,
+  "count": 4,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -76,6 +76,27 @@
       "start_time": null,
       "status": "live",
       "status_detail": "VIC is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1561260",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1561260-1",
+        "name": "Royal Desert Champions"
+      },
+      "away": {
+        "id": "1561260-2",
+        "name": "UAE Bulls"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "RDC is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

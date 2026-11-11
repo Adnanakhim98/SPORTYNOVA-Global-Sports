@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11T07:59:43.194728+00:00",
+  "updated_at": "2026-11-11T16:03:02.124322+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 20,
+  "count": 19,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,6 +18,111 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
+    {
+      "id": "401841311",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "9169",
+        "name": "Mirassol"
+      },
+      "away": {
+        "id": "7632",
+        "name": "Atlético-MG"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estadio Municipal José Maria de Campos Maia",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841175",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "9318",
+        "name": "Chapecoense"
+      },
+      "away": {
+        "id": "3454",
+        "name": "Vasco da Gama"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Arena Condá",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401876988",
+      "sport": "soccer",
+      "league": "Liga MX",
+      "country": "",
+      "home": {
+        "id": "222",
+        "name": "Querétaro"
+      },
+      "away": {
+        "id": "220",
+        "name": "Monterrey"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estadio Corregidora",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933734",
+      "sport": "soccer",
+      "league": "NWSL",
+      "country": "",
+      "home": {
+        "id": "15365",
+        "name": "Washington Spirit"
+      },
+      "away": {
+        "id": "19141",
+        "name": "Utah Royals"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Audi Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401912519",
+      "sport": "soccer",
+      "league": "Copa Libertadores",
+      "country": "",
+      "home": {
+        "id": "2029",
+        "name": "Palmeiras"
+      },
+      "away": {
+        "id": "8",
+        "name": "Estudiantes de La Plata"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estadio Centenario",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
     {
       "id": "401873052",
       "sport": "football",
@@ -309,132 +414,6 @@
       "status_detail": "11/16 - 8:15 PM EST",
       "score": null,
       "venue": "M&T Bank Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401841311",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "9169",
-        "name": "Mirassol"
-      },
-      "away": {
-        "id": "7632",
-        "name": "Atlético-MG"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Estadio Municipal José Maria de Campos Maia",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401841175",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "9318",
-        "name": "Chapecoense"
-      },
-      "away": {
-        "id": "3454",
-        "name": "Vasco da Gama"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Arena Condá",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401876988",
-      "sport": "soccer",
-      "league": "Liga MX",
-      "country": "",
-      "home": {
-        "id": "222",
-        "name": "Querétaro"
-      },
-      "away": {
-        "id": "220",
-        "name": "Monterrey"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Estadio Corregidora",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401933734",
-      "sport": "soccer",
-      "league": "NWSL",
-      "country": "",
-      "home": {
-        "id": "15365",
-        "name": "Washington Spirit"
-      },
-      "away": {
-        "id": "19141",
-        "name": "Utah Royals"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Audi Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401912519",
-      "sport": "soccer",
-      "league": "Copa Libertadores",
-      "country": "",
-      "home": {
-        "id": "2029",
-        "name": "Palmeiras"
-      },
-      "away": {
-        "id": "8",
-        "name": "Estudiantes de La Plata"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Estadio Centenario",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1561260",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1561260-1",
-        "name": "Royal Desert Champions"
-      },
-      "away": {
-        "id": "1561260-2",
-        "name": "UAE Bulls"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Royal Desert Champions v UAE Bulls",
-      "score": null,
-      "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     }
