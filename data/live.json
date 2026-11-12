@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T12:08:44.673907+00:00",
+  "updated_at": "2026-11-12T20:15:55.120198+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 6,
+  "count": 4,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -76,48 +76,6 @@
       "start_time": null,
       "status": "live",
       "status_detail": "WA is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1558442",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1558442-1",
-        "name": "Bangladesh Under-19s"
-      },
-      "away": {
-        "id": "1558442-2",
-        "name": "Pakistan Under-19s"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "PU is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1558443",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1558443-1",
-        "name": "Afghanistan Under-19s"
-      },
-      "away": {
-        "id": "1558443-2",
-        "name": "India Under-19s"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "IU is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
