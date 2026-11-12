@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11T22:54:51.089156+00:00",
+  "updated_at": "2026-11-12T03:35:07.153053+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 3,
+  "count": 11,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -15,14 +15,177 @@
     "rugby",
     "racing"
   ],
-  "fetch_errors": [
-    {
-      "sport": "racing",
-      "error": "429 Client Error: Too Many Requests for url: https://kiwi-sports.mak2st.workers.dev/api/scoreboard?sport=racing"
-    }
-  ],
+  "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
+    {
+      "id": "401892692",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "6",
+        "name": "Edmonton Oilers"
+      },
+      "away": {
+        "id": "15",
+        "name": "Philadelphia Flyers"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "4:35 - 2nd",
+      "score": null,
+      "venue": "Rogers Place",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892693",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "37",
+        "name": "Vegas Golden Knights"
+      },
+      "away": {
+        "id": "129764",
+        "name": "Utah Mammoth"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "End of 1st",
+      "score": null,
+      "venue": "T-Mobile Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892694",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "25",
+        "name": "Anaheim Ducks"
+      },
+      "away": {
+        "id": "27",
+        "name": "Nashville Predators"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "5:19 - 1st",
+      "score": null,
+      "venue": "Honda Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892695",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "18",
+        "name": "San Jose Sharks"
+      },
+      "away": {
+        "id": "16",
+        "name": "Pittsburgh Penguins"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "6:07 - 1st",
+      "score": null,
+      "venue": "SAP Center at San Jose",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909972",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "3",
+        "name": "New Orleans Pelicans"
+      },
+      "away": {
+        "id": "17",
+        "name": "Brooklyn Nets"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "1:38 - 4th",
+      "score": null,
+      "venue": "Smoothie King Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909973",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "26",
+        "name": "Utah Jazz"
+      },
+      "away": {
+        "id": "19",
+        "name": "Orlando Magic"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "9:04 - 3rd",
+      "score": null,
+      "venue": "Delta Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909974",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "10",
+        "name": "Houston Rockets"
+      },
+      "away": {
+        "id": "9",
+        "name": "Golden State Warriors"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "2:33 - 2nd",
+      "score": null,
+      "venue": "Toyota Center (Houston)",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909975",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "22",
+        "name": "Portland Trail Blazers"
+      },
+      "away": {
+        "id": "25",
+        "name": "Oklahoma City Thunder"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "1:05 - 1st",
+      "score": null,
+      "venue": "Moda Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
     {
       "id": "1550711",
       "sport": "cricket",
@@ -59,7 +222,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SA is batting",
+      "status_detail": "NSW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -80,7 +243,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "VIC is batting",
+      "status_detail": "WA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
