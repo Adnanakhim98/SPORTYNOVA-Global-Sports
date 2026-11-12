@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T03:35:07.153053+00:00",
+  "updated_at": "2026-11-12T12:08:44.673907+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 132,
   "sports_requested": [
@@ -18,132 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401892692",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Edmonton Oilers"
-      },
-      "away": {
-        "id": "15",
-        "name": "Philadelphia Flyers"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "4:35 - 2nd",
-      "score": null,
-      "venue": "Rogers Place",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892693",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "37",
-        "name": "Vegas Golden Knights"
-      },
-      "away": {
-        "id": "129764",
-        "name": "Utah Mammoth"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "End of 1st",
-      "score": null,
-      "venue": "T-Mobile Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892694",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "25",
-        "name": "Anaheim Ducks"
-      },
-      "away": {
-        "id": "27",
-        "name": "Nashville Predators"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "5:19 - 1st",
-      "score": null,
-      "venue": "Honda Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892695",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "San Jose Sharks"
-      },
-      "away": {
-        "id": "16",
-        "name": "Pittsburgh Penguins"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "6:07 - 1st",
-      "score": null,
-      "venue": "SAP Center at San Jose",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892690",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "2",
-        "name": "Buffalo Sabres"
-      },
-      "away": {
-        "id": "20",
-        "name": "Tampa Bay Lightning"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "KeyBank Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892691",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "3",
-        "name": "Calgary Flames"
-      },
-      "away": {
-        "id": "13",
-        "name": "New York Rangers"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Scotiabank Saddledome",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "401873052",
       "sport": "football",
@@ -439,90 +313,6 @@
       "watch_links": []
     },
     {
-      "id": "401909972",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "3",
-        "name": "New Orleans Pelicans"
-      },
-      "away": {
-        "id": "17",
-        "name": "Brooklyn Nets"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "1:38 - 4th",
-      "score": null,
-      "venue": "Smoothie King Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909973",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "26",
-        "name": "Utah Jazz"
-      },
-      "away": {
-        "id": "19",
-        "name": "Orlando Magic"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "9:04 - 3rd",
-      "score": null,
-      "venue": "Delta Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909974",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "10",
-        "name": "Houston Rockets"
-      },
-      "away": {
-        "id": "9",
-        "name": "Golden State Warriors"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "2:33 - 2nd",
-      "score": null,
-      "venue": "Toyota Center (Houston)",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909975",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "22",
-        "name": "Portland Trail Blazers"
-      },
-      "away": {
-        "id": "25",
-        "name": "Oklahoma City Thunder"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "1:05 - 1st",
-      "score": null,
-      "venue": "Moda Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "401909966",
       "sport": "basketball",
       "league": "NBA",
@@ -649,6 +439,90 @@
       "watch_links": []
     },
     {
+      "id": "401909972",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "3",
+        "name": "New Orleans Pelicans"
+      },
+      "away": {
+        "id": "17",
+        "name": "Brooklyn Nets"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Smoothie King Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909973",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "26",
+        "name": "Utah Jazz"
+      },
+      "away": {
+        "id": "19",
+        "name": "Orlando Magic"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Delta Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909974",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "10",
+        "name": "Houston Rockets"
+      },
+      "away": {
+        "id": "9",
+        "name": "Golden State Warriors"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Toyota Center (Houston)",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909975",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "22",
+        "name": "Portland Trail Blazers"
+      },
+      "away": {
+        "id": "25",
+        "name": "Oklahoma City Thunder"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Moda Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401918311",
       "sport": "basketball",
       "league": "WNBA",
@@ -670,23 +544,128 @@
       "watch_links": []
     },
     {
-      "id": "401908046",
-      "sport": "baseball",
-      "league": "MLB",
+      "id": "401892690",
+      "sport": "hockey",
+      "league": "NHL",
       "country": "",
       "home": {
-        "id": "30",
-        "name": "Tampa Bay Rays"
+        "id": "2",
+        "name": "Buffalo Sabres"
       },
       "away": {
-        "id": "8",
-        "name": "Milwaukee Brewers"
+        "id": "20",
+        "name": "Tampa Bay Lightning"
       },
       "start_time": null,
       "status": "finished",
       "status_detail": "Final",
       "score": null,
-      "venue": "Tropicana Field",
+      "venue": "KeyBank Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892691",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "3",
+        "name": "Calgary Flames"
+      },
+      "away": {
+        "id": "13",
+        "name": "New York Rangers"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Scotiabank Saddledome",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892692",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "6",
+        "name": "Edmonton Oilers"
+      },
+      "away": {
+        "id": "15",
+        "name": "Philadelphia Flyers"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final/OT",
+      "score": null,
+      "venue": "Rogers Place",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892693",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "37",
+        "name": "Vegas Golden Knights"
+      },
+      "away": {
+        "id": "129764",
+        "name": "Utah Mammoth"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "T-Mobile Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892694",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "25",
+        "name": "Anaheim Ducks"
+      },
+      "away": {
+        "id": "27",
+        "name": "Nashville Predators"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Honda Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892695",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "18",
+        "name": "San Jose Sharks"
+      },
+      "away": {
+        "id": "16",
+        "name": "Pittsburgh Penguins"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final/SO",
+      "score": null,
+      "venue": "SAP Center at San Jose",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -2665,6 +2644,27 @@
       "watch_links": []
     },
     {
+      "id": "401908046",
+      "sport": "baseball",
+      "league": "MLB",
+      "country": "",
+      "home": {
+        "id": "30",
+        "name": "Tampa Bay Rays"
+      },
+      "away": {
+        "id": "8",
+        "name": "Milwaukee Brewers"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "Final",
+      "score": null,
+      "venue": "Tropicana Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "1550711",
       "sport": "cricket",
       "league": "Cricket",
@@ -2679,7 +2679,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SL is batting",
+      "status_detail": "PAK is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -2728,48 +2728,6 @@
       "watch_links": []
     },
     {
-      "id": "1557543",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1557543-1",
-        "name": "Ireland Women"
-      },
-      "away": {
-        "id": "1557543-2",
-        "name": "Sri Lanka Women"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Ireland Women v Sri Lanka Women",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1557544",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1557544-1",
-        "name": "Papua New Guinea Women"
-      },
-      "away": {
-        "id": "1557544-2",
-        "name": "Scotland Women"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Papua New Guinea Women v Scotland Women",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1558442",
       "sport": "cricket",
       "league": "Cricket",
@@ -2783,8 +2741,50 @@
         "name": "Pakistan Under-19s"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Bangladesh Under-19s v Pakistan Under-19s",
+      "status": "live",
+      "status_detail": "PU is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1558443",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1558443-1",
+        "name": "Afghanistan Under-19s"
+      },
+      "away": {
+        "id": "1558443-2",
+        "name": "India Under-19s"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "IU is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1558237",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1558237-1",
+        "name": "Zimbabwe A"
+      },
+      "away": {
+        "id": "1558237-2",
+        "name": "Ireland A"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "IA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
