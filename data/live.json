@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T16:41:06.905656+00:00",
+  "updated_at": "2026-11-13T22:22:34.833715+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 6,
+  "count": 5,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,27 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "1550711",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1550711-1",
-        "name": "Pakistan"
-      },
-      "away": {
-        "id": "1550711-2",
-        "name": "Sri Lanka"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "PAK is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "1544873",
       "sport": "cricket",
@@ -103,42 +82,42 @@
       "watch_links": []
     },
     {
-      "id": "1557547",
+      "id": "1555124",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1557547-1",
-        "name": "Scotland Women"
+        "id": "1555124-1",
+        "name": "Afghanistan"
       },
       "away": {
-        "id": "1557547-2",
-        "name": "Sri Lanka Women"
+        "id": "1555124-2",
+        "name": "Zimbabwe"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SLW is batting",
+      "status_detail": "ZIM is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1557548",
+      "id": "1561264",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1557548-1",
-        "name": "United Arab Emirates Women"
+        "id": "1561264-1",
+        "name": "Arabian Aces"
       },
       "away": {
-        "id": "1557548-2",
-        "name": "Ireland Women"
+        "id": "1561264-2",
+        "name": "UAE Bulls"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "UAE is batting",
+      "status_detail": "UB is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
