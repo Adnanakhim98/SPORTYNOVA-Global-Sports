@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T01:19:58.082807+00:00",
+  "updated_at": "2026-11-13T08:28:25.368888+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 23,
+  "count": 20,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,69 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401892704",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "129764",
-        "name": "Utah Mammoth"
-      },
-      "away": {
-        "id": "19",
-        "name": "St. Louis Blues"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/12 - 9:00 PM EST",
-      "score": null,
-      "venue": "Delta Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892705",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "8",
-        "name": "Los Angeles Kings"
-      },
-      "away": {
-        "id": "12",
-        "name": "New York Islanders"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/12 - 10:00 PM EST",
-      "score": null,
-      "venue": "crypto.com Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909979",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Phoenix Suns"
-      },
-      "away": {
-        "id": "30",
-        "name": "Charlotte Hornets"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/12 - 9:00 PM EST",
-      "score": null,
-      "venue": "Mortgage Matchup Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "401873053",
       "sport": "football",
@@ -418,6 +355,48 @@
       "watch_links": []
     },
     {
+      "id": "401933535",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "12011",
+        "name": "Orlando City SC"
+      },
+      "away": {
+        "id": "18267",
+        "name": "FC Cincinnati"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Inter&Co Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933555",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "9726",
+        "name": "Seattle Sounders FC"
+      },
+      "away": {
+        "id": "4771",
+        "name": "Real Salt Lake"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Lumen Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401933734",
       "sport": "soccer",
       "league": "NWSL",
@@ -456,48 +435,6 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "Estadio Centenario",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1539440",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1539440-1",
-        "name": "New Zealand"
-      },
-      "away": {
-        "id": "1539440-2",
-        "name": "India"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "New Zealand v India",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1528703",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1528703-1",
-        "name": "Australia"
-      },
-      "away": {
-        "id": "1528703-2",
-        "name": "England"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Australia v England",
-      "score": null,
-      "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     }
