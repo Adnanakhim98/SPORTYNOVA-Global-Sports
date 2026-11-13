@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:28:25.368888+00:00",
+  "updated_at": "2026-11-13T16:41:06.905656+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 6,
   "sports_requested": [
@@ -96,49 +96,49 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "IA is batting",
+      "status_detail": "ZA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1539440",
+      "id": "1557547",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1539440-1",
-        "name": "New Zealand"
+        "id": "1557547-1",
+        "name": "Scotland Women"
       },
       "away": {
-        "id": "1539440-2",
-        "name": "India"
+        "id": "1557547-2",
+        "name": "Sri Lanka Women"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "IND is batting",
+      "status_detail": "SLW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1528703",
+      "id": "1557548",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1528703-1",
-        "name": "Australia"
+        "id": "1557548-1",
+        "name": "United Arab Emirates Women"
       },
       "away": {
-        "id": "1528703-2",
-        "name": "England"
+        "id": "1557548-2",
+        "name": "Ireland Women"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "AUS is batting",
+      "status_detail": "UAE is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
