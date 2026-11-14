@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-14T16:21:50.968118+00:00",
+  "updated_at": "2026-11-14T20:52:32.144176+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 5,
+  "count": 4,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,6 +18,27 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
+    {
+      "id": "401892708",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "4",
+        "name": "Chicago Blackhawks"
+      },
+      "away": {
+        "id": "28",
+        "name": "Winnipeg Jets"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "12:13 - 1st",
+      "score": null,
+      "venue": "United Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
     {
       "id": "1558237",
       "sport": "cricket",
@@ -61,48 +82,6 @@
       "watch_links": []
     },
     {
-      "id": "1546671",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1546671-1",
-        "name": "Hyderabad (India)"
-      },
-      "away": {
-        "id": "1546671-2",
-        "name": "Mumbai"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "MUM is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1558444",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1558444-1",
-        "name": "India Under-19s"
-      },
-      "away": {
-        "id": "1558444-2",
-        "name": "Pakistan Under-19s"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "IU is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1561267",
       "sport": "cricket",
       "league": "Cricket",
@@ -117,7 +96,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "UB is batting",
+      "status_detail": "YL is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
