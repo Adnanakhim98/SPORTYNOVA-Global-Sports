@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T07:30:36.723282+00:00",
+  "updated_at": "2026-11-15T15:16:40.388997+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 6,
+  "count": 7,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,6 +18,27 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
+    {
+      "id": "401873053",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "8",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "id": "17",
+        "name": "New England Patriots"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "12:57 - 2nd",
+      "score": null,
+      "venue": "FC Bayern Munich Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
     {
       "id": "1558237",
       "sport": "cricket",
@@ -54,7 +75,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "AFG is batting",
+      "status_detail": "ZIM is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -103,27 +124,6 @@
       "watch_links": []
     },
     {
-      "id": "1539441",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1539441-1",
-        "name": "New Zealand"
-      },
-      "away": {
-        "id": "1539441-2",
-        "name": "India"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "NZ is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1528704",
       "sport": "cricket",
       "league": "Cricket",
@@ -138,7 +138,28 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "ENG is batting",
+      "status_detail": "AUS is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557551",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557551-1",
+        "name": "Thailand Women"
+      },
+      "away": {
+        "id": "1557551-2",
+        "name": "Zimbabwe Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "TW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

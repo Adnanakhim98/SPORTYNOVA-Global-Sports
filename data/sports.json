@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:30:36.723282+00:00",
+  "updated_at": "2026-11-15T15:16:40.388997+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 120,
   "sports_requested": [
@@ -32,8 +32,8 @@
         "name": "New England Patriots"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 9:30 AM EST",
+      "status": "live",
+      "status_detail": "12:57 - 2nd",
       "score": null,
       "venue": "FC Bayern Munich Stadium",
       "source": "Kiwi Sports API",
@@ -1678,6 +1678,27 @@
       "watch_links": []
     },
     {
+      "id": "401933740",
+      "sport": "soccer",
+      "league": "NWSL",
+      "country": "",
+      "home": {
+        "id": "15364",
+        "name": "Gotham FC"
+      },
+      "away": {
+        "id": "20907",
+        "name": "Kansas City Current"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Icahn Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401915380",
       "sport": "soccer",
       "league": "Champions League",
@@ -2010,27 +2031,6 @@
       "status_detail": "FT",
       "score": null,
       "venue": "Estadio Corregidora",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401933734",
-      "sport": "soccer",
-      "league": "NWSL",
-      "country": "",
-      "home": {
-        "id": "15365",
-        "name": "Washington Spirit"
-      },
-      "away": {
-        "id": "19141",
-        "name": "Utah Royals"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "FT",
-      "score": null,
-      "venue": "Audi Field",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -2448,7 +2448,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "AFG is batting",
+      "status_detail": "ZIM is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -2497,27 +2497,6 @@
       "watch_links": []
     },
     {
-      "id": "1539441",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1539441-1",
-        "name": "New Zealand"
-      },
-      "away": {
-        "id": "1539441-2",
-        "name": "India"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "NZ is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1528704",
       "sport": "cricket",
       "league": "Cricket",
@@ -2532,7 +2511,28 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "ENG is batting",
+      "status_detail": "AUS is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557551",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557551-1",
+        "name": "Thailand Women"
+      },
+      "away": {
+        "id": "1557551-2",
+        "name": "Zimbabwe Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "TW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
