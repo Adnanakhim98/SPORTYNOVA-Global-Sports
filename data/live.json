@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T15:16:40.388997+00:00",
+  "updated_at": "2026-11-15T20:28:04.124985+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 7,
+  "count": 12,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,23 +19,191 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401873053",
+      "id": "401873058",
       "sport": "football",
       "league": "NFL",
       "country": "",
       "home": {
-        "id": "8",
-        "name": "Detroit Lions"
+        "id": "1",
+        "name": "Atlanta Falcons"
       },
       "away": {
-        "id": "17",
-        "name": "New England Patriots"
+        "id": "12",
+        "name": "Kansas City Chiefs"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "12:57 - 2nd",
+      "status_detail": "10:43 - 4th",
       "score": null,
-      "venue": "FC Bayern Munich Stadium",
+      "venue": "Mercedes-Benz Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873056",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "5",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "id": "34",
+        "name": "Houston Texans"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "11:02 - 4th",
+      "score": null,
+      "venue": "Huntington Bank Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873060",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "9",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "id": "16",
+        "name": "Minnesota Vikings"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "12:32 - 4th",
+      "score": null,
+      "venue": "Lambeau Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873057",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "10",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "id": "30",
+        "name": "Jacksonville Jaguars"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "2:07 - 3rd",
+      "score": null,
+      "venue": "Nissan Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873059",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "11",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "id": "15",
+        "name": "Miami Dolphins"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "15:00 - 4th",
+      "score": null,
+      "venue": "Lucas Oil Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873055",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "18",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "id": "29",
+        "name": "Carolina Panthers"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "11:49 - 4th",
+      "score": null,
+      "venue": "Caesars Superdome",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873054",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "20",
+        "name": "New York Jets"
+      },
+      "away": {
+        "id": "2",
+        "name": "Buffalo Bills"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "15:00 - 4th",
+      "score": null,
+      "venue": "MetLife Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909985",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "20",
+        "name": "Philadelphia 76ers"
+      },
+      "away": {
+        "id": "11",
+        "name": "Indiana Pacers"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "52.7 - 4th",
+      "score": null,
+      "venue": "Xfinity Mobile Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933740",
+      "sport": "soccer",
+      "league": "NWSL",
+      "country": "",
+      "home": {
+        "id": "15364",
+        "name": "Gotham FC"
+      },
+      "away": {
+        "id": "20907",
+        "name": "Kansas City Current"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "6'",
+      "score": null,
+      "venue": "Icahn Stadium",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -82,84 +250,21 @@
       "watch_links": []
     },
     {
-      "id": "1555415",
+      "id": "1525662",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1555415-1",
-        "name": "Diasqua Little Sai Wan Cricket Club"
+        "id": "1525662-1",
+        "name": "South Africa"
       },
       "away": {
-        "id": "1555415-2",
-        "name": "Pakistan Association of Hong Kong"
+        "id": "1525662-2",
+        "name": "Bangladesh"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "PAO is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1555416",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1555416-1",
-        "name": "Hong Kong Cricket Club"
-      },
-      "away": {
-        "id": "1555416-2",
-        "name": "United Services Recreation Club"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "USR is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1528704",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1528704-1",
-        "name": "Australia"
-      },
-      "away": {
-        "id": "1528704-2",
-        "name": "England"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "AUS is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1557551",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1557551-1",
-        "name": "Thailand Women"
-      },
-      "away": {
-        "id": "1557551-2",
-        "name": "Zimbabwe Women"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "TW is batting",
+      "status_detail": "BAN is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
