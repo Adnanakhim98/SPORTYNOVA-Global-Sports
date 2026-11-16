@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T00:13:11.411836+00:00",
+  "updated_at": "2026-11-16T07:01:13.801527+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 8,
+  "count": 6,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,111 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401873063",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "id": "25",
-        "name": "San Francisco 49ers"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "5:27 - 4th",
-      "score": null,
-      "venue": "AT&T Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909988",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "26",
-        "name": "Utah Jazz"
-      },
-      "away": {
-        "id": "24",
-        "name": "San Antonio Spurs"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "3:15 - 4th",
-      "score": null,
-      "venue": "Delta Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909989",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "2",
-        "name": "Boston Celtics"
-      },
-      "away": {
-        "id": "6",
-        "name": "Dallas Mavericks"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "Halftime",
-      "score": null,
-      "venue": "TD Garden",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909990",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "28",
-        "name": "Toronto Raptors"
-      },
-      "away": {
-        "id": "18",
-        "name": "New York Knicks"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "4.8 - 2nd",
-      "score": null,
-      "venue": "Scotiabank Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909991",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "27",
-        "name": "Washington Wizards"
-      },
-      "away": {
-        "id": "10",
-        "name": "Houston Rockets"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "10:48 - 1st",
-      "score": null,
-      "venue": "Capital One Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "1555124",
       "sport": "cricket",
@@ -180,7 +75,70 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SA is batting",
+      "status_detail": "NSW is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1544856",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1544856-1",
+        "name": "Victoria"
+      },
+      "away": {
+        "id": "1544856-2",
+        "name": "Western Australia"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "VIC is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557555",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557555-1",
+        "name": "Bangladesh Women"
+      },
+      "away": {
+        "id": "1557555-2",
+        "name": "Netherlands Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "NW is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557556",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557556-1",
+        "name": "Pakistan Women"
+      },
+      "away": {
+        "id": "1557556-2",
+        "name": "Zimbabwe Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "ZW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

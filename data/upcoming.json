@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T00:13:11.411836+00:00",
+  "updated_at": "2026-11-16T07:01:13.801527+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 66,
+  "count": 73,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,27 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401873064",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "4",
-        "name": "Cincinnati Bengals"
-      },
-      "away": {
-        "id": "23",
-        "name": "Pittsburgh Steelers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 8:20 PM EST",
-      "score": null,
-      "venue": "Paycor Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "401873065",
       "sport": "football",
@@ -57,153 +36,6 @@
       "status_detail": "11/16 - 8:15 PM EST",
       "score": null,
       "venue": "M&T Bank Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892721",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "15",
-        "name": "Philadelphia Flyers"
-      },
-      "away": {
-        "id": "6",
-        "name": "Edmonton Oilers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 7:30 PM EST",
-      "score": null,
-      "venue": "Xfinity Mobile Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892722",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "9",
-        "name": "Dallas Stars"
-      },
-      "away": {
-        "id": "26",
-        "name": "Florida Panthers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 8:00 PM EST",
-      "score": null,
-      "venue": "American Airlines Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892723",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "25",
-        "name": "Anaheim Ducks"
-      },
-      "away": {
-        "id": "3",
-        "name": "Calgary Flames"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 8:00 PM EST",
-      "score": null,
-      "venue": "Honda Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892724",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "37",
-        "name": "Vegas Golden Knights"
-      },
-      "away": {
-        "id": "22",
-        "name": "Vancouver Canucks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 9:00 PM EST",
-      "score": null,
-      "venue": "T-Mobile Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892725",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "18",
-        "name": "San Jose Sharks"
-      },
-      "away": {
-        "id": "27",
-        "name": "Nashville Predators"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 9:00 PM EST",
-      "score": null,
-      "venue": "SAP Center at San Jose",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909992",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "15",
-        "name": "Milwaukee Bucks"
-      },
-      "away": {
-        "id": "1",
-        "name": "Atlanta Hawks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 8:00 PM EST",
-      "score": null,
-      "venue": "Fiserv Forum",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909993",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "23",
-        "name": "Sacramento Kings"
-      },
-      "away": {
-        "id": "25",
-        "name": "Oklahoma City Thunder"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 9:00 PM EST",
-      "score": null,
-      "venue": "Golden 1 Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -1321,6 +1153,384 @@
       "watch_links": []
     },
     {
+      "id": "401915506",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "1895",
+        "name": "Besiktas"
+      },
+      "away": {
+        "id": "13083",
+        "name": "Hapoel Be'er"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Batumi Stadium (Adjarabet Arena)",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915519",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "85",
+        "name": "Celta Vigo"
+      },
+      "away": {
+        "id": "349",
+        "name": "AFC Bournemouth"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Balaidos",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915517",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "597",
+        "name": "Dinamo Zagreb"
+      },
+      "away": {
+        "id": "131",
+        "name": "Bayer Leverkusen"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Maksimir Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915507",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "176",
+        "name": "Marseille"
+      },
+      "away": {
+        "id": "490",
+        "name": "Levski Sofia"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Stade Vélodrome",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915521",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "435",
+        "name": "Olympiacos"
+      },
+      "away": {
+        "id": "103",
+        "name": "AC Milan"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Georgios Karaiskakis Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915520",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "2790",
+        "name": "RB Salzburg"
+      },
+      "away": {
+        "id": "20024",
+        "name": "Ararat-Armenia"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Red Bull Arena Salzburg",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915508",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "5807",
+        "name": "Union St.-Gilloise"
+      },
+      "away": {
+        "id": "2990",
+        "name": "Lech Poznan"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "King Power at Den Dreef Stadion",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915518",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "11706",
+        "name": "Viktoria Plzen"
+      },
+      "away": {
+        "id": "1929",
+        "name": "Benfica"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Doosan Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915504",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "384",
+        "name": "Crystal Palace"
+      },
+      "away": {
+        "id": "89",
+        "name": "Real Sociedad"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Selhurst Park",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915516",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "622",
+        "name": "Ferencvaros"
+      },
+      "away": {
+        "id": "3362",
+        "name": "NK Celje"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Groupama Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915502",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "111",
+        "name": "Juventus"
+      },
+      "away": {
+        "id": "617",
+        "name": "Omonia Nicosia"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Allianz Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915501",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "167",
+        "name": "Lyon"
+      },
+      "away": {
+        "id": "987",
+        "name": "Lillestrom"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Groupama Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915505",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "147",
+        "name": "NEC Nijmegen"
+      },
+      "away": {
+        "id": "169",
+        "name": "Stade Rennais"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Goffertstadion",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915503",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "1010",
+        "name": "OFI Crete"
+      },
+      "away": {
+        "id": "441",
+        "name": "Anderlecht"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Pankritio Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915514",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "433",
+        "name": "Sparta Prague"
+      },
+      "away": {
+        "id": "140",
+        "name": "AZ Alkmaar"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Generali Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915513",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "366",
+        "name": "Sunderland"
+      },
+      "away": {
+        "id": "11505",
+        "name": "Jagiellonia Bialystok"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Stadium of Light",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915512",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "21615",
+        "name": "Torreense"
+      },
+      "away": {
+        "id": "256",
+        "name": "Celtic"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estádio Dr. Magalhaes Pessoa",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915515",
+      "sport": "soccer",
+      "league": "Europa League",
+      "country": "",
+      "home": {
+        "id": "7911",
+        "name": "TSG Hoffenheim"
+      },
+      "away": {
+        "id": "3746",
+        "name": "SK Sturm Graz"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "PreZero Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401912519",
       "sport": "soccer",
       "league": "Copa Libertadores",
@@ -1338,69 +1548,6 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "Estadio Centenario",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1544856",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1544856-1",
-        "name": "Victoria"
-      },
-      "away": {
-        "id": "1544856-2",
-        "name": "Western Australia"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Victoria v Western Australia",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1557555",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1557555-1",
-        "name": "Bangladesh Women"
-      },
-      "away": {
-        "id": "1557555-2",
-        "name": "Netherlands Women"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Bangladesh Women v Netherlands Women",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1557556",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1557556-1",
-        "name": "Pakistan Women"
-      },
-      "away": {
-        "id": "1557556-2",
-        "name": "Zimbabwe Women"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Pakistan Women v Zimbabwe Women",
-      "score": null,
-      "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     }
