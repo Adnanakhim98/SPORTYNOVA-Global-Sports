@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T20:28:04.124985+00:00",
+  "updated_at": "2026-11-16T00:13:11.411836+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 75,
+  "count": 66,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,6 +18,48 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
+    {
+      "id": "401873064",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "4",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "id": "23",
+        "name": "Pittsburgh Steelers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/15 - 8:20 PM EST",
+      "score": null,
+      "venue": "Paycor Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873065",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "33",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "id": "24",
+        "name": "Los Angeles Chargers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/16 - 8:15 PM EST",
+      "score": null,
+      "venue": "M&T Bank Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
     {
       "id": "401892721",
       "sport": "hockey",
@@ -120,237 +162,6 @@
       "status_detail": "11/15 - 9:00 PM EST",
       "score": null,
       "venue": "SAP Center at San Jose",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873062",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "13",
-        "name": "Las Vegas Raiders"
-      },
-      "away": {
-        "id": "26",
-        "name": "Seattle Seahawks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 4:05 PM EST",
-      "score": null,
-      "venue": "Allegiant Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873061",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "22",
-        "name": "Arizona Cardinals"
-      },
-      "away": {
-        "id": "14",
-        "name": "Los Angeles Rams"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 4:05 PM EST",
-      "score": null,
-      "venue": "State Farm Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873063",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "id": "25",
-        "name": "San Francisco 49ers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 4:25 PM EST",
-      "score": null,
-      "venue": "AT&T Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873064",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "4",
-        "name": "Cincinnati Bengals"
-      },
-      "away": {
-        "id": "23",
-        "name": "Pittsburgh Steelers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 8:20 PM EST",
-      "score": null,
-      "venue": "Paycor Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873065",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "33",
-        "name": "Baltimore Ravens"
-      },
-      "away": {
-        "id": "24",
-        "name": "Los Angeles Chargers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/16 - 8:15 PM EST",
-      "score": null,
-      "venue": "M&T Bank Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909986",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Phoenix Suns"
-      },
-      "away": {
-        "id": "13",
-        "name": "Los Angeles Lakers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 4:00 PM EST",
-      "score": null,
-      "venue": "Mortgage Matchup Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909987",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "12",
-        "name": "LA Clippers"
-      },
-      "away": {
-        "id": "30",
-        "name": "Charlotte Hornets"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 4:30 PM EST",
-      "score": null,
-      "venue": "Intuit Dome",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909988",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "26",
-        "name": "Utah Jazz"
-      },
-      "away": {
-        "id": "24",
-        "name": "San Antonio Spurs"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 5:00 PM EST",
-      "score": null,
-      "venue": "Delta Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909989",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "2",
-        "name": "Boston Celtics"
-      },
-      "away": {
-        "id": "6",
-        "name": "Dallas Mavericks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 6:00 PM EST",
-      "score": null,
-      "venue": "TD Garden",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909990",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "28",
-        "name": "Toronto Raptors"
-      },
-      "away": {
-        "id": "18",
-        "name": "New York Knicks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 6:00 PM EST",
-      "score": null,
-      "venue": "Scotiabank Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909991",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "27",
-        "name": "Washington Wizards"
-      },
-      "away": {
-        "id": "10",
-        "name": "Houston Rockets"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/15 - 7:00 PM EST",
-      "score": null,
-      "venue": "Capital One Arena",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -1531,27 +1342,6 @@
       "watch_links": []
     },
     {
-      "id": "1544855",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1544855-1",
-        "name": "New South Wales"
-      },
-      "away": {
-        "id": "1544855-2",
-        "name": "South Australia"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "New South Wales v South Australia",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1544856",
       "sport": "cricket",
       "league": "Cricket",
@@ -1588,6 +1378,27 @@
       "start_time": null,
       "status": "upcoming",
       "status_detail": "Bangladesh Women v Netherlands Women",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557556",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557556-1",
+        "name": "Pakistan Women"
+      },
+      "away": {
+        "id": "1557556-2",
+        "name": "Zimbabwe Women"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Pakistan Women v Zimbabwe Women",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
