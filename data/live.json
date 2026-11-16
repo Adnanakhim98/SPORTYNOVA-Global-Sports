@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T07:01:13.801527+00:00",
+  "updated_at": "2026-11-16T17:16:09.485159+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 6,
   "sports_requested": [
@@ -33,7 +33,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "ZIM is batting",
+      "status_detail": "AFG is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -54,49 +54,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "BAN is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1544855",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1544855-1",
-        "name": "New South Wales"
-      },
-      "away": {
-        "id": "1544855-2",
-        "name": "South Australia"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "NSW is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1544856",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1544856-1",
-        "name": "Victoria"
-      },
-      "away": {
-        "id": "1544856-2",
-        "name": "Western Australia"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "VIC is batting",
+      "status_detail": "SA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -139,6 +97,48 @@
       "start_time": null,
       "status": "live",
       "status_detail": "ZW is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557557",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557557-1",
+        "name": "Ireland Women"
+      },
+      "away": {
+        "id": "1557557-2",
+        "name": "Papua New Guinea Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "PNG is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557558",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557558-1",
+        "name": "United Arab Emirates Women"
+      },
+      "away": {
+        "id": "1557558-2",
+        "name": "Sri Lanka Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "SLW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
