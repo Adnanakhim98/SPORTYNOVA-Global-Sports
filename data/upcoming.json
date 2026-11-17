@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T17:16:09.485159+00:00",
+  "updated_at": "2026-11-17T00:56:00.904428+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 83,
+  "count": 79,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -40,107 +40,23 @@
       "watch_links": []
     },
     {
-      "id": "401909994",
-      "sport": "basketball",
-      "league": "NBA",
+      "id": "401892727",
+      "sport": "hockey",
+      "league": "NHL",
       "country": "",
       "home": {
-        "id": "2",
-        "name": "Boston Celtics"
+        "id": "129764",
+        "name": "Utah Mammoth"
       },
       "away": {
-        "id": "19",
-        "name": "Orlando Magic"
+        "id": "22",
+        "name": "Vancouver Canucks"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "11/16 - 7:00 PM EST",
+      "status_detail": "11/16 - 9:30 PM EST",
       "score": null,
-      "venue": "TD Garden",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909995",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "5",
-        "name": "Cleveland Cavaliers"
-      },
-      "away": {
-        "id": "4",
-        "name": "Chicago Bulls"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/16 - 7:00 PM EST",
-      "score": null,
-      "venue": "Rocket Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909996",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "27",
-        "name": "Washington Wizards"
-      },
-      "away": {
-        "id": "29",
-        "name": "Memphis Grizzlies"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/16 - 7:00 PM EST",
-      "score": null,
-      "venue": "Capital One Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909997",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "17",
-        "name": "Brooklyn Nets"
-      },
-      "away": {
-        "id": "20",
-        "name": "Philadelphia 76ers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/16 - 7:30 PM EST",
-      "score": null,
-      "venue": "Barclays Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909998",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "14",
-        "name": "Miami Heat"
-      },
-      "away": {
-        "id": "10",
-        "name": "Houston Rockets"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/16 - 7:30 PM EST",
-      "score": null,
-      "venue": "Kaseya Center",
+      "venue": "Delta Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -1720,44 +1636,44 @@
       "watch_links": []
     },
     {
-      "id": "401892726",
-      "sport": "hockey",
-      "league": "NHL",
+      "id": "1550712",
+      "sport": "cricket",
+      "league": "Cricket",
       "country": "",
       "home": {
-        "id": "13",
-        "name": "New York Rangers"
+        "id": "1550712-1",
+        "name": "Pakistan"
       },
       "away": {
-        "id": "10",
-        "name": "Montreal Canadiens"
+        "id": "1550712-2",
+        "name": "Sri Lanka"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "11/16 - 7:30 PM EST",
+      "status_detail": "Pakistan v Sri Lanka",
       "score": null,
-      "venue": "Madison Square Garden",
+      "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401892727",
-      "sport": "hockey",
-      "league": "NHL",
+      "id": "1561274",
+      "sport": "cricket",
+      "league": "Cricket",
       "country": "",
       "home": {
-        "id": "129764",
-        "name": "Utah Mammoth"
+        "id": "1561274-1",
+        "name": "Royal Desert Champions"
       },
       "away": {
-        "id": "22",
-        "name": "Vancouver Canucks"
+        "id": "1561274-2",
+        "name": "UAE Bulls"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "11/16 - 9:30 PM EST",
+      "status_detail": "Royal Desert Champions v UAE Bulls",
       "score": null,
-      "venue": "Delta Center",
+      "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     }
