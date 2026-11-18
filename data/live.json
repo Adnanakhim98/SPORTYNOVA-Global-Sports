@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T18:06:54.880325+00:00",
+  "updated_at": "2026-11-18T01:08:08.774357+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 4,
+  "count": 10,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,23 +19,170 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "1555124",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401910002",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "1555124-1",
-        "name": "Afghanistan"
+        "id": "28",
+        "name": "Toronto Raptors"
       },
       "away": {
-        "id": "1555124-2",
-        "name": "Zimbabwe"
+        "id": "18",
+        "name": "New York Knicks"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "AFG is batting",
+      "status_detail": "End of 1st",
       "score": null,
-      "venue": "",
+      "venue": "Scotiabank Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892728",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "1",
+        "name": "Boston Bruins"
+      },
+      "away": {
+        "id": "8",
+        "name": "Los Angeles Kings"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "16:15 - 2nd",
+      "score": null,
+      "venue": "TD Garden",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892730",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "26",
+        "name": "Florida Panthers"
+      },
+      "away": {
+        "id": "6",
+        "name": "Edmonton Oilers"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "14:19 - 2nd",
+      "score": null,
+      "venue": "Amerant Bank Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892731",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "12",
+        "name": "New York Islanders"
+      },
+      "away": {
+        "id": "29",
+        "name": "Columbus Blue Jackets"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "17:02 - 2nd",
+      "score": null,
+      "venue": "UBS Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892732",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "15",
+        "name": "Philadelphia Flyers"
+      },
+      "away": {
+        "id": "2",
+        "name": "Buffalo Sabres"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "18:38 - 2nd",
+      "score": null,
+      "venue": "Xfinity Mobile Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892736",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "28",
+        "name": "Winnipeg Jets"
+      },
+      "away": {
+        "id": "14",
+        "name": "Ottawa Senators"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "17:16 - 2nd",
+      "score": null,
+      "venue": "Canada Life Centre",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892729",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "20",
+        "name": "Tampa Bay Lightning"
+      },
+      "away": {
+        "id": "23",
+        "name": "Washington Capitals"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "5:57 - 1st",
+      "score": null,
+      "venue": "Benchmark International Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892733",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "4",
+        "name": "Chicago Blackhawks"
+      },
+      "away": {
+        "id": "21",
+        "name": "Toronto Maple Leafs"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "3:46 - 1st",
+      "score": null,
+      "venue": "United Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -76,27 +223,6 @@
       "start_time": null,
       "status": "live",
       "status_detail": "PAK is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1561274",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1561274-1",
-        "name": "Royal Desert Champions"
-      },
-      "away": {
-        "id": "1561274-2",
-        "name": "UAE Bulls"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "UB is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

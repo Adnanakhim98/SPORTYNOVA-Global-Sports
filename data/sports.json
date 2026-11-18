@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T18:06:54.880325+00:00",
+  "updated_at": "2026-11-18T01:08:08.774357+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 119,
+  "count": 120,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -326,8 +326,8 @@
         "name": "New York Knicks"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:30 PM EST",
+      "status": "live",
+      "status_detail": "End of 1st",
       "score": null,
       "venue": "Scotiabank Arena",
       "source": "Kiwi Sports API",
@@ -452,8 +452,8 @@
         "name": "Los Angeles Kings"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "16:15 - 2nd",
       "score": null,
       "venue": "TD Garden",
       "source": "Kiwi Sports API",
@@ -473,8 +473,8 @@
         "name": "Edmonton Oilers"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "14:19 - 2nd",
       "score": null,
       "venue": "Amerant Bank Arena",
       "source": "Kiwi Sports API",
@@ -494,8 +494,8 @@
         "name": "Columbus Blue Jackets"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "17:02 - 2nd",
       "score": null,
       "venue": "UBS Arena",
       "source": "Kiwi Sports API",
@@ -515,8 +515,8 @@
         "name": "Buffalo Sabres"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "18:38 - 2nd",
       "score": null,
       "venue": "Xfinity Mobile Arena",
       "source": "Kiwi Sports API",
@@ -536,8 +536,8 @@
         "name": "Ottawa Senators"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:00 PM EST",
+      "status": "live",
+      "status_detail": "17:16 - 2nd",
       "score": null,
       "venue": "Canada Life Centre",
       "source": "Kiwi Sports API",
@@ -557,8 +557,8 @@
         "name": "Washington Capitals"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:30 PM EST",
+      "status": "live",
+      "status_detail": "5:57 - 1st",
       "score": null,
       "venue": "Benchmark International Arena",
       "source": "Kiwi Sports API",
@@ -578,8 +578,8 @@
         "name": "Toronto Maple Leafs"
       },
       "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/17 - 7:30 PM EST",
+      "status": "live",
+      "status_detail": "3:46 - 1st",
       "score": null,
       "venue": "United Center",
       "source": "Kiwi Sports API",
@@ -2413,27 +2413,6 @@
       "watch_links": []
     },
     {
-      "id": "1555124",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1555124-1",
-        "name": "Afghanistan"
-      },
-      "away": {
-        "id": "1555124-2",
-        "name": "Zimbabwe"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "AFG is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1525662",
       "sport": "cricket",
       "league": "Cricket",
@@ -2476,27 +2455,6 @@
       "watch_links": []
     },
     {
-      "id": "1561274",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1561274-1",
-        "name": "Royal Desert Champions"
-      },
-      "away": {
-        "id": "1561274-2",
-        "name": "UAE Bulls"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "UB is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1528705",
       "sport": "cricket",
       "league": "Cricket",
@@ -2512,6 +2470,69 @@
       "start_time": null,
       "status": "upcoming",
       "status_detail": "Australia v England",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557559",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557559-1",
+        "name": "United Arab Emirates Women"
+      },
+      "away": {
+        "id": "1557559-2",
+        "name": "Papua New Guinea Women"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "United Arab Emirates Women v Papua New Guinea Women",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557560",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557560-1",
+        "name": "Ireland Women"
+      },
+      "away": {
+        "id": "1557560-2",
+        "name": "Scotland Women"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Ireland Women v Scotland Women",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1546710",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1546710-1",
+        "name": "Hyderabad (India)"
+      },
+      "away": {
+        "id": "1546710-2",
+        "name": "Vidarbha"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Hyderabad (India) v Vidarbha",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
