@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T08:51:03.303591+00:00",
+  "updated_at": "2026-11-18T17:46:02.327131+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 6,
   "sports_requested": [
@@ -33,7 +33,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SA is batting",
+      "status_detail": "BAN is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -54,28 +54,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "PAK is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1528705",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1528705-1",
-        "name": "Australia"
-      },
-      "away": {
-        "id": "1528705-2",
-        "name": "England"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "AUS is batting",
+      "status_detail": "SL is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -139,6 +118,27 @@
       "start_time": null,
       "status": "live",
       "status_detail": "VID is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1558238",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1558238-1",
+        "name": "Zimbabwe A"
+      },
+      "away": {
+        "id": "1558238-2",
+        "name": "Ireland A"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "IA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
