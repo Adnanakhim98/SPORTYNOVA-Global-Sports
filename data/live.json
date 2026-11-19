@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-19T05:46:46.544227+00:00",
+  "updated_at": "2026-11-19T15:11:42.698297+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 4,
+  "count": 6,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,27 +19,6 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401892741",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "129764",
-        "name": "Utah Mammoth"
-      },
-      "away": {
-        "id": "17",
-        "name": "Colorado Avalanche"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "6:38 - 3rd",
-      "score": null,
-      "venue": "Delta Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1525662",
       "sport": "cricket",
       "league": "Cricket",
@@ -54,7 +33,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "BAN is batting",
+      "status_detail": "SA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -97,6 +76,69 @@
       "start_time": null,
       "status": "live",
       "status_detail": "NZ is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1562342",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1562342-1",
+        "name": "Bangladesh A"
+      },
+      "away": {
+        "id": "1562342-2",
+        "name": "Hong Kong"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "BA is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1562343",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1562343-1",
+        "name": "Afghanistan A"
+      },
+      "away": {
+        "id": "1562343-2",
+        "name": "Sri Lanka A"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "SLA is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1561277",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1561277-1",
+        "name": "Arabian Aces"
+      },
+      "away": {
+        "id": "1561277-2",
+        "name": "UAE Bulls"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "UB is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",

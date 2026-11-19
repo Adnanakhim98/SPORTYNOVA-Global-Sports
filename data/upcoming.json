@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T05:46:46.544227+00:00",
+  "updated_at": "2026-11-19T15:11:42.698297+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 87,
   "sports_requested": [
@@ -18,279 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401873066",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "34",
-        "name": "Houston Texans"
-      },
-      "away": {
-        "id": "11",
-        "name": "Indianapolis Colts"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/19 - 8:15 PM EST",
-      "score": null,
-      "venue": "Reliant Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873070",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "2",
-        "name": "Buffalo Bills"
-      },
-      "away": {
-        "id": "15",
-        "name": "Miami Dolphins"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 1:00 PM EST",
-      "score": null,
-      "venue": "Highmark Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873071",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "3",
-        "name": "Chicago Bears"
-      },
-      "away": {
-        "id": "18",
-        "name": "New Orleans Saints"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 1:00 PM EST",
-      "score": null,
-      "venue": "Soldier Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873073",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "id": "10",
-        "name": "Tennessee Titans"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 1:00 PM EST",
-      "score": null,
-      "venue": "AT&T Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873072",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "8",
-        "name": "Detroit Lions"
-      },
-      "away": {
-        "id": "27",
-        "name": "Tampa Bay Buccaneers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 1:00 PM EST",
-      "score": null,
-      "venue": "Ford Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873067",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "12",
-        "name": "Kansas City Chiefs"
-      },
-      "away": {
-        "id": "22",
-        "name": "Arizona Cardinals"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 1:00 PM EST",
-      "score": null,
-      "venue": "Arrowhead Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873076",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "21",
-        "name": "Philadelphia Eagles"
-      },
-      "away": {
-        "id": "23",
-        "name": "Pittsburgh Steelers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 1:00 PM EST",
-      "score": null,
-      "venue": "Lincoln Financial Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873068",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "29",
-        "name": "Carolina Panthers"
-      },
-      "away": {
-        "id": "33",
-        "name": "Baltimore Ravens"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 1:00 PM EST",
-      "score": null,
-      "venue": "Bank of America Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873074",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "24",
-        "name": "Los Angeles Chargers"
-      },
-      "away": {
-        "id": "20",
-        "name": "New York Jets"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 4:05 PM EST",
-      "score": null,
-      "venue": "SoFi Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873075",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "7",
-        "name": "Denver Broncos"
-      },
-      "away": {
-        "id": "13",
-        "name": "Las Vegas Raiders"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 4:25 PM EST",
-      "score": null,
-      "venue": "Empower Field at Mile High",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873069",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "19",
-        "name": "New York Giants"
-      },
-      "away": {
-        "id": "30",
-        "name": "Jacksonville Jaguars"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 4:25 PM EST",
-      "score": null,
-      "venue": "MetLife Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873077",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "25",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "id": "16",
-        "name": "Minnesota Vikings"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/22 - 8:20 PM EST",
-      "score": null,
-      "venue": "Estadio Banorte",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401873078",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "28",
-        "name": "Washington Commanders"
-      },
-      "away": {
-        "id": "4",
-        "name": "Cincinnati Bengals"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/23 - 8:15 PM EST",
-      "score": null,
-      "venue": "Northwest Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "401879233",
       "sport": "soccer",
@@ -1069,6 +796,69 @@
       "watch_links": []
     },
     {
+      "id": "401841308",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "3454",
+        "name": "Vasco da Gama"
+      },
+      "away": {
+        "id": "1936",
+        "name": "Internacional"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estádio São Januário",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841317",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "3457",
+        "name": "Vitória"
+      },
+      "away": {
+        "id": "6079",
+        "name": "Red Bull Bragantino"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estadio Manoel Barradas",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841309",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "2026",
+        "name": "São Paulo"
+      },
+      "away": {
+        "id": "3445",
+        "name": "Fluminense"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estádio Cícero Pompeu de Toledo",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401877054",
       "sport": "soccer",
       "league": "Liga MX",
@@ -1783,65 +1573,275 @@
       "watch_links": []
     },
     {
-      "id": "1562342",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401873066",
+      "sport": "football",
+      "league": "NFL",
       "country": "",
       "home": {
-        "id": "1562342-1",
-        "name": "Bangladesh A"
+        "id": "34",
+        "name": "Houston Texans"
       },
       "away": {
-        "id": "1562342-2",
-        "name": "Hong Kong"
+        "id": "11",
+        "name": "Indianapolis Colts"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "Bangladesh A v Hong Kong",
+      "status_detail": "11/19 - 8:15 PM EST",
       "score": null,
-      "venue": "",
+      "venue": "Reliant Stadium",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1562343",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401873070",
+      "sport": "football",
+      "league": "NFL",
       "country": "",
       "home": {
-        "id": "1562343-1",
-        "name": "Afghanistan A"
+        "id": "2",
+        "name": "Buffalo Bills"
       },
       "away": {
-        "id": "1562343-2",
-        "name": "Sri Lanka A"
+        "id": "15",
+        "name": "Miami Dolphins"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "Afghanistan A v Sri Lanka A",
+      "status_detail": "11/22 - 1:00 PM EST",
       "score": null,
-      "venue": "",
+      "venue": "Highmark Stadium",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1561277",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401873071",
+      "sport": "football",
+      "league": "NFL",
       "country": "",
       "home": {
-        "id": "1561277-1",
-        "name": "Arabian Aces"
+        "id": "3",
+        "name": "Chicago Bears"
       },
       "away": {
-        "id": "1561277-2",
-        "name": "UAE Bulls"
+        "id": "18",
+        "name": "New Orleans Saints"
       },
       "start_time": null,
       "status": "upcoming",
-      "status_detail": "Arabian Aces v UAE Bulls",
+      "status_detail": "11/22 - 1:00 PM EST",
       "score": null,
-      "venue": "",
+      "venue": "Soldier Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873073",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "6",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "id": "10",
+        "name": "Tennessee Titans"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 1:00 PM EST",
+      "score": null,
+      "venue": "AT&T Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873072",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "8",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "id": "27",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 1:00 PM EST",
+      "score": null,
+      "venue": "Ford Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873067",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "12",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "id": "22",
+        "name": "Arizona Cardinals"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 1:00 PM EST",
+      "score": null,
+      "venue": "Arrowhead Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873076",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "21",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "id": "23",
+        "name": "Pittsburgh Steelers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 1:00 PM EST",
+      "score": null,
+      "venue": "Lincoln Financial Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873068",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "29",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "id": "33",
+        "name": "Baltimore Ravens"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 1:00 PM EST",
+      "score": null,
+      "venue": "Bank of America Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873074",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "24",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "id": "20",
+        "name": "New York Jets"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 4:05 PM EST",
+      "score": null,
+      "venue": "SoFi Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873075",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "7",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "id": "13",
+        "name": "Las Vegas Raiders"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 4:25 PM EST",
+      "score": null,
+      "venue": "Empower Field at Mile High",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873069",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "19",
+        "name": "New York Giants"
+      },
+      "away": {
+        "id": "30",
+        "name": "Jacksonville Jaguars"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 4:25 PM EST",
+      "score": null,
+      "venue": "MetLife Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873077",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "25",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "id": "16",
+        "name": "Minnesota Vikings"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/22 - 8:20 PM EST",
+      "score": null,
+      "venue": "Estadio Banorte",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401873078",
+      "sport": "football",
+      "league": "NFL",
+      "country": "",
+      "home": {
+        "id": "28",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "id": "4",
+        "name": "Cincinnati Bengals"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/23 - 8:15 PM EST",
+      "score": null,
+      "venue": "Northwest Stadium",
       "source": "Kiwi Sports API",
       "watch_links": []
     }
