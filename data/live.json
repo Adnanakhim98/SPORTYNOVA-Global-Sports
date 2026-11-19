@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-18T23:51:41.199052+00:00",
+  "updated_at": "2026-11-19T05:46:46.544227+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 7,
+  "count": 4,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,86 +19,23 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401841315",
-      "sport": "soccer",
-      "league": "Brasileirão",
+      "id": "401892741",
+      "sport": "hockey",
+      "league": "NHL",
       "country": "",
       "home": {
-        "id": "3456",
-        "name": "Coritiba"
+        "id": "129764",
+        "name": "Utah Mammoth"
       },
       "away": {
-        "id": "2674",
-        "name": "Santos"
+        "id": "17",
+        "name": "Colorado Avalanche"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "53'",
+      "status_detail": "6:38 - 3rd",
       "score": null,
-      "venue": "Couto Pereira",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401841310",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "4936",
-        "name": "Remo"
-      },
-      "away": {
-        "id": "9318",
-        "name": "Chapecoense"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "45'+5'",
-      "score": null,
-      "venue": "Mangueirão",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401841314",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "2022",
-        "name": "Cruzeiro"
-      },
-      "away": {
-        "id": "2029",
-        "name": "Palmeiras"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "20'",
-      "score": null,
-      "venue": "Estadio Mineirão",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401841313",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "819",
-        "name": "Flamengo"
-      },
-      "away": {
-        "id": "3458",
-        "name": "Athletico-PR"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "21'",
-      "score": null,
-      "venue": "Estadio do Maracana",
+      "venue": "Delta Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
