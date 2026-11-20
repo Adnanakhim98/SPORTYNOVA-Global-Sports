@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T12:28:46.268917+00:00",
+  "updated_at": "2026-11-20T20:39:57.270040+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 6,
+  "count": 8,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,44 +19,65 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "1525662",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401882805",
+      "sport": "soccer",
+      "league": "La Liga",
       "country": "",
       "home": {
-        "id": "1525662-1",
-        "name": "South Africa"
+        "id": "93",
+        "name": "Athletic Club"
       },
       "away": {
-        "id": "1525662-2",
-        "name": "Bangladesh"
+        "id": "88",
+        "name": "Espanyol"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SA is batting",
+      "status_detail": "38'",
       "score": null,
-      "venue": "",
+      "venue": "San Mamés",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1550712",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401884736",
+      "sport": "soccer",
+      "league": "Bundesliga",
       "country": "",
       "home": {
-        "id": "1550712-1",
-        "name": "Pakistan"
+        "id": "132",
+        "name": "Bayern Munich"
       },
       "away": {
-        "id": "1550712-2",
-        "name": "Sri Lanka"
+        "id": "122",
+        "name": "FC Cologne"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SL is batting",
+      "status_detail": "48'",
       "score": null,
-      "venue": "",
+      "venue": "Allianz Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401876395",
+      "sport": "soccer",
+      "league": "Ligue 1",
+      "country": "",
+      "home": {
+        "id": "170",
+        "name": "Troyes"
+      },
+      "away": {
+        "id": "3236",
+        "name": "Le Havre AC"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "HT",
+      "score": null,
+      "venue": "Stade de l'Aube",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -75,70 +96,91 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "NZ is batting",
+      "status_detail": "IND is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1562342",
+      "id": "1562344",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1562342-1",
-        "name": "Bangladesh A"
+        "id": "1562344-1",
+        "name": "Pakistan A"
       },
       "away": {
-        "id": "1562342-2",
-        "name": "Hong Kong"
+        "id": "1562344-2",
+        "name": "United Arab Emirates"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "BA is batting",
+      "status_detail": "UAE is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1562343",
+      "id": "1558239",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1562343-1",
-        "name": "Afghanistan A"
+        "id": "1558239-1",
+        "name": "Zimbabwe A"
       },
       "away": {
-        "id": "1562343-2",
-        "name": "Sri Lanka A"
+        "id": "1558239-2",
+        "name": "Ireland A"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SLA is batting",
+      "status_detail": "ZA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1561277",
+      "id": "1562345",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1561277-1",
-        "name": "Arabian Aces"
+        "id": "1562345-1",
+        "name": "India A"
       },
       "away": {
-        "id": "1561277-2",
+        "id": "1562345-2",
+        "name": "Nepal"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "NEP is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1561281",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1561281-1",
+        "name": "Yas Lions"
+      },
+      "away": {
+        "id": "1561281-2",
         "name": "UAE Bulls"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "Arabian Aces 96/6  v UAE Bulls 99/3 ",
+      "status_detail": "YL is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
