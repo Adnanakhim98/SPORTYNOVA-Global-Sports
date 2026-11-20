@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T03:51:01.882226+00:00",
+  "updated_at": "2026-11-20T12:28:46.268917+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 11,
+  "count": 6,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,111 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401873066",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "34",
-        "name": "Houston Texans"
-      },
-      "away": {
-        "id": "11",
-        "name": "Indianapolis Colts"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "10:05 - 4th",
-      "score": null,
-      "venue": "Reliant Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892751",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "17",
-        "name": "Colorado Avalanche"
-      },
-      "away": {
-        "id": "25",
-        "name": "Anaheim Ducks"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "End of 2nd",
-      "score": null,
-      "venue": "Ball Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892752",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "124292",
-        "name": "Seattle Kraken"
-      },
-      "away": {
-        "id": "22",
-        "name": "Vancouver Canucks"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "20:00 - 2nd",
-      "score": null,
-      "venue": "Climate Pledge Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401892753",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "37",
-        "name": "Vegas Golden Knights"
-      },
-      "away": {
-        "id": "9",
-        "name": "Dallas Stars"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "End of 1st",
-      "score": null,
-      "venue": "T-Mobile Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401933555",
-      "sport": "soccer",
-      "league": "MLS",
-      "country": "",
-      "home": {
-        "id": "9726",
-        "name": "Seattle Sounders FC"
-      },
-      "away": {
-        "id": "4771",
-        "name": "Real Salt Lake"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "41'",
-      "score": null,
-      "venue": "Lumen Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "1525662",
       "sport": "cricket",

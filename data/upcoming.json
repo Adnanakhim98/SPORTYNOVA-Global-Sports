@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T03:51:01.882226+00:00",
+  "updated_at": "2026-11-20T12:28:46.268917+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 81,
+  "count": 87,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -1048,6 +1048,69 @@
       "watch_links": []
     },
     {
+      "id": "401841322",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "2029",
+        "name": "Palmeiras"
+      },
+      "away": {
+        "id": "819",
+        "name": "Flamengo"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Allianz Parque",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841327",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "9967",
+        "name": "Bahia"
+      },
+      "away": {
+        "id": "3456",
+        "name": "Coritiba"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Arena Fonte Nova",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841325",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "9318",
+        "name": "Chapecoense"
+      },
+      "away": {
+        "id": "2022",
+        "name": "Cruzeiro"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Arena Condá",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401877054",
       "sport": "soccer",
       "league": "Liga MX",
@@ -1107,6 +1170,69 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "Estadio Caliente",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933733",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "189",
+        "name": "New England Revolution"
+      },
+      "away": {
+        "id": "10739",
+        "name": "Philadelphia Union"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Gillette Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933732",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "185",
+        "name": "FC Dallas"
+      },
+      "away": {
+        "id": "9723",
+        "name": "Portland Timbers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Toyota Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933739",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "20232",
+        "name": "Inter Miami CF"
+      },
+      "away": {
+        "id": "183",
+        "name": "Columbus Crew"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Nu Stadium",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
