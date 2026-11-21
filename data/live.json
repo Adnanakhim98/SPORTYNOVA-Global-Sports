@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-21T09:22:22.163691+00:00",
+  "updated_at": "2026-11-21T16:54:30.817448+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 3,
+  "count": 13,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,6 +18,216 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
+    {
+      "id": "401879236",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "",
+      "home": {
+        "id": "363",
+        "name": "Chelsea"
+      },
+      "away": {
+        "id": "357",
+        "name": "Leeds United"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "90'+2'",
+      "score": null,
+      "venue": "Stamford Bridge",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401879235",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "",
+      "home": {
+        "id": "388",
+        "name": "Coventry City"
+      },
+      "away": {
+        "id": "384",
+        "name": "Crystal Palace"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "90'+2'",
+      "score": null,
+      "venue": "Coventry Building Society Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401878754",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "",
+      "home": {
+        "id": "367",
+        "name": "Tottenham Hotspur"
+      },
+      "away": {
+        "id": "373",
+        "name": "Ipswich Town"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "90'+6'",
+      "score": null,
+      "venue": "Tottenham Hotspur Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880160",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "358",
+        "name": "Bolton Wanderers"
+      },
+      "away": {
+        "id": "385",
+        "name": "Portsmouth"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "90'+6'",
+      "score": null,
+      "venue": "Toughsheet Community Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880152",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "336",
+        "name": "Stoke City"
+      },
+      "away": {
+        "id": "392",
+        "name": "Birmingham City"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "90'+5'",
+      "score": null,
+      "venue": "bet365 Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880151",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "318",
+        "name": "Swansea City"
+      },
+      "away": {
+        "id": "383",
+        "name": "West Bromwich Albion"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "90'+1'",
+      "score": null,
+      "venue": "Swansea.com Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880150",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "371",
+        "name": "West Ham United"
+      },
+      "away": {
+        "id": "394",
+        "name": "Preston North End"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "90'+6'",
+      "score": null,
+      "venue": "London Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401882799",
+      "sport": "soccer",
+      "league": "La Liga",
+      "country": "",
+      "home": {
+        "id": "101",
+        "name": "Rayo Vallecano"
+      },
+      "away": {
+        "id": "94",
+        "name": "Valencia"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "79'",
+      "score": null,
+      "venue": "Estadio de Vallecas",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401876398",
+      "sport": "soccer",
+      "league": "Ligue 1",
+      "country": "",
+      "home": {
+        "id": "2502",
+        "name": "Nice"
+      },
+      "away": {
+        "id": "160",
+        "name": "Paris Saint-Germain"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "39'",
+      "score": null,
+      "venue": "Allianz Riviera",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401875541",
+      "sport": "soccer",
+      "league": "Eredivisie",
+      "country": "",
+      "home": {
+        "id": "147",
+        "name": "NEC Nijmegen"
+      },
+      "away": {
+        "id": "148",
+        "name": "PSV Eindhoven"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "60'",
+      "score": null,
+      "venue": "Goffertstadion",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
     {
       "id": "1539442",
       "sport": "cricket",
@@ -54,28 +264,28 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SLA is batting",
+      "status_detail": "HK is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1528706",
+      "id": "1562347",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1528706-1",
-        "name": "Australia"
+        "id": "1562347-1",
+        "name": "Afghanistan A"
       },
       "away": {
-        "id": "1528706-2",
-        "name": "England"
+        "id": "1562347-2",
+        "name": "Bangladesh A"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "ENG is batting",
+      "status_detail": "BA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
