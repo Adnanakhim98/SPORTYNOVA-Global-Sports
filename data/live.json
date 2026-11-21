@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:39:57.270040+00:00",
+  "updated_at": "2026-11-21T01:57:26.861118+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 8,
   "sports_requested": [
@@ -19,65 +19,149 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401882805",
-      "sport": "soccer",
-      "league": "La Liga",
+      "id": "401909305",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "93",
-        "name": "Athletic Club"
+        "id": "1",
+        "name": "Atlanta Hawks"
       },
       "away": {
-        "id": "88",
-        "name": "Espanyol"
+        "id": "30",
+        "name": "Charlotte Hornets"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "38'",
+      "status_detail": "8:24 - 4th",
       "score": null,
-      "venue": "San Mamés",
+      "venue": "State Farm Arena",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401884736",
-      "sport": "soccer",
-      "league": "Bundesliga",
+      "id": "401909306",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "132",
-        "name": "Bayern Munich"
+        "id": "17",
+        "name": "Brooklyn Nets"
       },
       "away": {
-        "id": "122",
-        "name": "FC Cologne"
+        "id": "19",
+        "name": "Orlando Magic"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "48'",
+      "status_detail": "Halftime",
       "score": null,
-      "venue": "Allianz Arena",
+      "venue": "Barclays Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401876395",
-      "sport": "soccer",
-      "league": "Ligue 1",
+      "id": "401909307",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "170",
-        "name": "Troyes"
+        "id": "5",
+        "name": "Cleveland Cavaliers"
       },
       "away": {
-        "id": "3236",
-        "name": "Le Havre AC"
+        "id": "11",
+        "name": "Indiana Pacers"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "10:23 - 3rd",
+      "score": null,
+      "venue": "Rocket Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909308",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "8",
+        "name": "Detroit Pistons"
+      },
+      "away": {
+        "id": "28",
+        "name": "Toronto Raptors"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "10:18 - 3rd",
+      "score": null,
+      "venue": "Little Caesars Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909309",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "4",
+        "name": "Chicago Bulls"
+      },
+      "away": {
+        "id": "27",
+        "name": "Washington Wizards"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "3:33 - 2nd",
+      "score": null,
+      "venue": "United Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909310",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "25",
+        "name": "Oklahoma City Thunder"
+      },
+      "away": {
+        "id": "3",
+        "name": "New Orleans Pelicans"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "4:17 - 2nd",
+      "score": null,
+      "venue": "Paycom Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401877054",
+      "sport": "soccer",
+      "league": "Liga MX",
+      "country": "",
+      "home": {
+        "id": "231",
+        "name": "Puebla"
+      },
+      "away": {
+        "id": "15720",
+        "name": "Atlético de San Luis"
       },
       "start_time": null,
       "status": "live",
       "status_detail": "HT",
       "score": null,
-      "venue": "Stade de l'Aube",
+      "venue": "Estadio Cuauhtémoc",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -97,90 +181,6 @@
       "start_time": null,
       "status": "live",
       "status_detail": "IND is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1562344",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1562344-1",
-        "name": "Pakistan A"
-      },
-      "away": {
-        "id": "1562344-2",
-        "name": "United Arab Emirates"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "UAE is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1558239",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1558239-1",
-        "name": "Zimbabwe A"
-      },
-      "away": {
-        "id": "1558239-2",
-        "name": "Ireland A"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "ZA is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1562345",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1562345-1",
-        "name": "India A"
-      },
-      "away": {
-        "id": "1562345-2",
-        "name": "Nepal"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "NEP is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1561281",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1561281-1",
-        "name": "Yas Lions"
-      },
-      "away": {
-        "id": "1561281-2",
-        "name": "UAE Bulls"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "YL is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
