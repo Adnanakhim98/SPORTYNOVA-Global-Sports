@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T03:53:47.888934+00:00",
+  "updated_at": "2026-11-23T13:59:00.907320+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 36,
+  "count": 47,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -36,6 +36,237 @@
       "status_detail": "11/23 - 8:15 PM EST",
       "score": null,
       "venue": "Northwest Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401879237",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "",
+      "home": {
+        "id": "337",
+        "name": "Brentford"
+      },
+      "away": {
+        "id": "368",
+        "name": "Everton"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Gtech Community Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880148",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "333",
+        "name": "Bristol City"
+      },
+      "away": {
+        "id": "352",
+        "name": "Wrexham"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Ashton Gate",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880147",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "347",
+        "name": "Cardiff City"
+      },
+      "away": {
+        "id": "394",
+        "name": "Preston North End"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Cardiff City Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880146",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "372",
+        "name": "Charlton Athletic"
+      },
+      "away": {
+        "id": "314",
+        "name": "Lincoln City"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "The Valley",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880145",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "369",
+        "name": "Middlesbrough"
+      },
+      "away": {
+        "id": "318",
+        "name": "Swansea City"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Riverside Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880144",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "381",
+        "name": "Norwich City"
+      },
+      "away": {
+        "id": "334",
+        "name": "Queens Park Rangers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Carrow Road",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880143",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "385",
+        "name": "Portsmouth"
+      },
+      "away": {
+        "id": "371",
+        "name": "West Ham United"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Fratton Park",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880142",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "398",
+        "name": "Sheffield United"
+      },
+      "away": {
+        "id": "376",
+        "name": "Southampton"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Bramall Lane",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880141",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "380",
+        "name": "Wolverhampton Wanderers"
+      },
+      "away": {
+        "id": "374",
+        "name": "Derby County"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Molineux Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401882802",
+      "sport": "soccer",
+      "league": "La Liga",
+      "country": "",
+      "home": {
+        "id": "1538",
+        "name": "Levante"
+      },
+      "away": {
+        "id": "3751",
+        "name": "Elche"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estadi Ciutat de València",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401875009",
+      "sport": "soccer",
+      "league": "Serie A",
+      "country": "",
+      "home": {
+        "id": "4007",
+        "name": "Monza"
+      },
+      "away": {
+        "id": "109",
+        "name": "Fiorentina"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "U-Power Stadium",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -99,6 +330,90 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "Ibrox Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841323",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "1936",
+        "name": "Internacional"
+      },
+      "away": {
+        "id": "3457",
+        "name": "Vitória"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estadio Beira-Rio",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841326",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "6086",
+        "name": "Botafogo"
+      },
+      "away": {
+        "id": "2026",
+        "name": "São Paulo"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Joao Havelange Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401841320",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "2674",
+        "name": "Santos"
+      },
+      "away": {
+        "id": "6273",
+        "name": "Grêmio"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Estádio Cícero Pompeu de Toledo",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933728",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "21812",
+        "name": "St. Louis CITY SC"
+      },
+      "away": {
+        "id": "18966",
+        "name": "LAFC"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "Scheduled",
+      "score": null,
+      "venue": "Energizer Park",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -687,90 +1002,6 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "Estadio Centenario",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1557569",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1557569-1",
-        "name": "Pakistan Women"
-      },
-      "away": {
-        "id": "1557569-2",
-        "name": "Sri Lanka Women"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Pakistan Women v Sri Lanka Women",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1562350",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1562350-1",
-        "name": "Afghanistan A"
-      },
-      "away": {
-        "id": "1562350-2",
-        "name": "Hong Kong"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Afghanistan A v Hong Kong",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1525663",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1525663-1",
-        "name": "South Africa"
-      },
-      "away": {
-        "id": "1525663-2",
-        "name": "Bangladesh"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "South Africa v Bangladesh",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1557570",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1557570-1",
-        "name": "Scotland Women"
-      },
-      "away": {
-        "id": "1557570-2",
-        "name": "Zimbabwe Women"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scotland Women v Zimbabwe Women",
-      "score": null,
-      "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     }

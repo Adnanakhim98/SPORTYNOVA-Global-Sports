@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T03:53:47.888934+00:00",
+  "updated_at": "2026-11-23T13:59:00.907320+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 4,
+  "count": 6,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,69 +19,6 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401873077",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "25",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "id": "16",
-        "name": "Minnesota Vikings"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "13:26 - 4th",
-      "score": null,
-      "venue": "Estadio Banorte",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401910035",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "9",
-        "name": "Golden State Warriors"
-      },
-      "away": {
-        "id": "2",
-        "name": "Boston Celtics"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "30.8 - 4th",
-      "score": null,
-      "venue": "Chase Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1539442",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1539442-1",
-        "name": "New Zealand"
-      },
-      "away": {
-        "id": "1539442-2",
-        "name": "India"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "NZ is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1544877",
       "sport": "cricket",
       "league": "Cricket",
@@ -97,6 +34,111 @@
       "start_time": null,
       "status": "live",
       "status_detail": "TAS is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557569",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557569-1",
+        "name": "Pakistan Women"
+      },
+      "away": {
+        "id": "1557569-2",
+        "name": "Sri Lanka Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "PW is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1562350",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1562350-1",
+        "name": "Afghanistan A"
+      },
+      "away": {
+        "id": "1562350-2",
+        "name": "Hong Kong"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "AA is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1525663",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1525663-1",
+        "name": "South Africa"
+      },
+      "away": {
+        "id": "1525663-2",
+        "name": "Bangladesh"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "BAN is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557570",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557570-1",
+        "name": "Scotland Women"
+      },
+      "away": {
+        "id": "1557570-2",
+        "name": "Zimbabwe Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "ZW is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557571",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557571-1",
+        "name": "Ireland Women"
+      },
+      "away": {
+        "id": "1557571-2",
+        "name": "Netherlands Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "NW is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
