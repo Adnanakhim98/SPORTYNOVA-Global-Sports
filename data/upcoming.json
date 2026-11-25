@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T22:08:10.280311+00:00",
+  "updated_at": "2026-11-25T04:58:13.998602+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 35,
+  "count": 30,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -18,90 +18,6 @@
   "fetch_errors": [],
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
-    {
-      "id": "401892780",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Edmonton Oilers"
-      },
-      "away": {
-        "id": "37",
-        "name": "Vegas Golden Knights"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/24 - 8:00 PM EST",
-      "score": null,
-      "venue": "Rogers Place",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909314",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "19",
-        "name": "Orlando Magic"
-      },
-      "away": {
-        "id": "8",
-        "name": "Detroit Pistons"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/24 - 7:00 PM EST",
-      "score": null,
-      "venue": "Kia Center",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909315",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "27",
-        "name": "Washington Wizards"
-      },
-      "away": {
-        "id": "2",
-        "name": "Boston Celtics"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/24 - 8:00 PM EST",
-      "score": null,
-      "venue": "Capital One Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401909316",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "7",
-        "name": "Denver Nuggets"
-      },
-      "away": {
-        "id": "6",
-        "name": "Dallas Mavericks"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "11/24 - 10:00 PM EST",
-      "score": null,
-      "venue": "Ball Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
     {
       "id": "401879225",
       "sport": "soccer",
@@ -288,27 +204,6 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "Estadio BBVA",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401933738",
-      "sport": "soccer",
-      "league": "MLS",
-      "country": "",
-      "home": {
-        "id": "191",
-        "name": "San Jose Earthquakes"
-      },
-      "away": {
-        "id": "6077",
-        "name": "Houston Dynamo FC"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "PayPal Park",
       "source": "Kiwi Sports API",
       "watch_links": []
     },

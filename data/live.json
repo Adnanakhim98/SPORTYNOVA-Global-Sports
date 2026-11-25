@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T22:08:10.280311+00:00",
+  "updated_at": "2026-11-25T04:58:13.998602+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 4,
+  "count": 5,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,23 +19,44 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401841335",
-      "sport": "soccer",
-      "league": "Brasileirão",
+      "id": "401909316",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "9318",
-        "name": "Chapecoense"
+        "id": "7",
+        "name": "Denver Nuggets"
       },
       "away": {
-        "id": "2029",
-        "name": "Palmeiras"
+        "id": "6",
+        "name": "Dallas Mavericks"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "47'",
+      "status_detail": "11:27 - 4th",
       "score": null,
-      "venue": "Arena Condá",
+      "venue": "Ball Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933738",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "191",
+        "name": "San Jose Earthquakes"
+      },
+      "away": {
+        "id": "6077",
+        "name": "Houston Dynamo FC"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "69'",
+      "score": null,
+      "venue": "PayPal Park",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -96,7 +117,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SA is batting",
+      "status_detail": "VIC is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
