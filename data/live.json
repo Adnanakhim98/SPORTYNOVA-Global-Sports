@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:58:13.998602+00:00",
+  "updated_at": "2026-11-25T15:23:30.375290+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 5,
   "sports_requested": [
@@ -19,48 +19,6 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401909316",
-      "sport": "basketball",
-      "league": "NBA",
-      "country": "",
-      "home": {
-        "id": "7",
-        "name": "Denver Nuggets"
-      },
-      "away": {
-        "id": "6",
-        "name": "Dallas Mavericks"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "11:27 - 4th",
-      "score": null,
-      "venue": "Ball Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401933738",
-      "sport": "soccer",
-      "league": "MLS",
-      "country": "",
-      "home": {
-        "id": "191",
-        "name": "San Jose Earthquakes"
-      },
-      "away": {
-        "id": "6077",
-        "name": "Houston Dynamo FC"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "69'",
-      "score": null,
-      "venue": "PayPal Park",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1544877",
       "sport": "cricket",
       "league": "Cricket",
@@ -75,7 +33,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "WA is batting",
+      "status_detail": "TAS is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -96,7 +54,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SA is batting",
+      "status_detail": "BAN is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -118,6 +76,48 @@
       "start_time": null,
       "status": "live",
       "status_detail": "VIC is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1557572",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1557572-1",
+        "name": "Ireland Women"
+      },
+      "away": {
+        "id": "1557572-2",
+        "name": "Sri Lanka Women"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "SLW is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1558241",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1558241-1",
+        "name": "Zimbabwe A"
+      },
+      "away": {
+        "id": "1558241-2",
+        "name": "Ireland A"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "IA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
