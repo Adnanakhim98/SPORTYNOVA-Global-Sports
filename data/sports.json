@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T15:23:30.375290+00:00",
+  "updated_at": "2026-11-25T23:43:59.337640+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 78,
+  "count": 96,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,65 +19,485 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401909314",
-      "sport": "basketball",
-      "league": "NBA",
+      "id": "401892781",
+      "sport": "hockey",
+      "league": "NHL",
       "country": "",
       "home": {
-        "id": "19",
-        "name": "Orlando Magic"
+        "id": "1",
+        "name": "Boston Bruins"
       },
       "away": {
-        "id": "8",
-        "name": "Detroit Pistons"
+        "id": "28",
+        "name": "Winnipeg Jets"
       },
       "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
       "score": null,
-      "venue": "Kia Center",
+      "venue": "TD Garden",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401909315",
-      "sport": "basketball",
-      "league": "NBA",
+      "id": "401892782",
+      "sport": "hockey",
+      "league": "NHL",
       "country": "",
       "home": {
-        "id": "27",
-        "name": "Washington Wizards"
+        "id": "2",
+        "name": "Buffalo Sabres"
       },
       "away": {
-        "id": "2",
-        "name": "Boston Celtics"
+        "id": "13",
+        "name": "New York Rangers"
       },
       "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
+      "score": null,
+      "venue": "KeyBank Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892783",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "20",
+        "name": "Tampa Bay Lightning"
+      },
+      "away": {
+        "id": "7",
+        "name": "Carolina Hurricanes"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
+      "score": null,
+      "venue": "Benchmark International Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892784",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "26",
+        "name": "Florida Panthers"
+      },
+      "away": {
+        "id": "14",
+        "name": "Ottawa Senators"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
+      "score": null,
+      "venue": "Amerant Bank Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892785",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "12",
+        "name": "New York Islanders"
+      },
+      "away": {
+        "id": "19",
+        "name": "St. Louis Blues"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
+      "score": null,
+      "venue": "UBS Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892786",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "16",
+        "name": "Pittsburgh Penguins"
+      },
+      "away": {
+        "id": "3",
+        "name": "Calgary Flames"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
+      "score": null,
+      "venue": "PPG Paints Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892787",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "23",
+        "name": "Washington Capitals"
+      },
+      "away": {
+        "id": "15",
+        "name": "Philadelphia Flyers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
       "score": null,
       "venue": "Capital One Arena",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401909316",
+      "id": "401892788",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "29",
+        "name": "Columbus Blue Jackets"
+      },
+      "away": {
+        "id": "11",
+        "name": "New Jersey Devils"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
+      "score": null,
+      "venue": "Nationwide Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892789",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "5",
+        "name": "Detroit Red Wings"
+      },
+      "away": {
+        "id": "22",
+        "name": "Vancouver Canucks"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:30 PM EST",
+      "score": null,
+      "venue": "Little Caesars Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892790",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "9",
+        "name": "Dallas Stars"
+      },
+      "away": {
+        "id": "27",
+        "name": "Nashville Predators"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 8:00 PM EST",
+      "score": null,
+      "venue": "American Airlines Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892791",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "30",
+        "name": "Minnesota Wild"
+      },
+      "away": {
+        "id": "129764",
+        "name": "Utah Mammoth"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 8:00 PM EST",
+      "score": null,
+      "venue": "Grand Casino Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892792",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "17",
+        "name": "Colorado Avalanche"
+      },
+      "away": {
+        "id": "10",
+        "name": "Montreal Canadiens"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 9:30 PM EST",
+      "score": null,
+      "venue": "Ball Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892794",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "124292",
+        "name": "Seattle Kraken"
+      },
+      "away": {
+        "id": "4",
+        "name": "Chicago Blackhawks"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 9:40 PM EST",
+      "score": null,
+      "venue": "Climate Pledge Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892793",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "25",
+        "name": "Anaheim Ducks"
+      },
+      "away": {
+        "id": "18",
+        "name": "San Jose Sharks"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 10:00 PM EST",
+      "score": null,
+      "venue": "Honda Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909317",
       "sport": "basketball",
       "league": "NBA",
       "country": "",
       "home": {
-        "id": "7",
-        "name": "Denver Nuggets"
+        "id": "20",
+        "name": "Philadelphia 76ers"
       },
       "away": {
-        "id": "6",
-        "name": "Dallas Mavericks"
+        "id": "14",
+        "name": "Miami Heat"
       },
       "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
+      "status": "live",
+      "status_detail": "5:26 - 3rd",
       "score": null,
-      "venue": "Ball Arena",
+      "venue": "Xfinity Mobile Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909318",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "30",
+        "name": "Charlotte Hornets"
+      },
+      "away": {
+        "id": "4",
+        "name": "Chicago Bulls"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:00 PM EST",
+      "score": null,
+      "venue": "Spectrum Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909319",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "18",
+        "name": "New York Knicks"
+      },
+      "away": {
+        "id": "5",
+        "name": "Cleveland Cavaliers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:30 PM EST",
+      "score": null,
+      "venue": "Madison Square Garden",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909320",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "25",
+        "name": "Oklahoma City Thunder"
+      },
+      "away": {
+        "id": "16",
+        "name": "Minnesota Timberwolves"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 7:30 PM EST",
+      "score": null,
+      "venue": "Paycom Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909321",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "29",
+        "name": "Memphis Grizzlies"
+      },
+      "away": {
+        "id": "12",
+        "name": "LA Clippers"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 8:00 PM EST",
+      "score": null,
+      "venue": "FedExForum",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909322",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "15",
+        "name": "Milwaukee Bucks"
+      },
+      "away": {
+        "id": "17",
+        "name": "Brooklyn Nets"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 8:00 PM EST",
+      "score": null,
+      "venue": "Fiserv Forum",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909323",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "10",
+        "name": "Houston Rockets"
+      },
+      "away": {
+        "id": "21",
+        "name": "Phoenix Suns"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 8:30 PM EST",
+      "score": null,
+      "venue": "Toyota Center (Houston)",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909324",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "9",
+        "name": "Golden State Warriors"
+      },
+      "away": {
+        "id": "23",
+        "name": "Sacramento Kings"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 10:00 PM EST",
+      "score": null,
+      "venue": "Chase Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909325",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "22",
+        "name": "Portland Trail Blazers"
+      },
+      "away": {
+        "id": "24",
+        "name": "San Antonio Spurs"
+      },
+      "start_time": null,
+      "status": "upcoming",
+      "status_detail": "11/25 - 10:00 PM EST",
+      "score": null,
+      "venue": "Moda Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -439,27 +859,6 @@
       "watch_links": []
     },
     {
-      "id": "401892780",
-      "sport": "hockey",
-      "league": "NHL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Edmonton Oilers"
-      },
-      "away": {
-        "id": "37",
-        "name": "Vegas Golden Knights"
-      },
-      "start_time": null,
-      "status": "finished",
-      "status_detail": "Final",
-      "score": null,
-      "venue": "Rogers Place",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "401908046",
       "sport": "baseball",
       "league": "MLB",
@@ -481,6 +880,27 @@
       "watch_links": []
     },
     {
+      "id": "401841319",
+      "sport": "soccer",
+      "league": "Brasileirão",
+      "country": "",
+      "home": {
+        "id": "7632",
+        "name": "Atlético-MG"
+      },
+      "away": {
+        "id": "874",
+        "name": "Corinthians"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "40'",
+      "score": null,
+      "venue": "Arena MRV",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401879225",
       "sport": "soccer",
       "league": "Premier League",
@@ -498,90 +918,6 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "The City Ground",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401880140",
-      "sport": "soccer",
-      "league": "Championship",
-      "country": "",
-      "home": {
-        "id": "358",
-        "name": "Bolton Wanderers"
-      },
-      "away": {
-        "id": "383",
-        "name": "West Bromwich Albion"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Toughsheet Community Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401880139",
-      "sport": "soccer",
-      "league": "Championship",
-      "country": "",
-      "home": {
-        "id": "379",
-        "name": "Burnley"
-      },
-      "away": {
-        "id": "392",
-        "name": "Birmingham City"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Turf Moor",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401880137",
-      "sport": "soccer",
-      "league": "Championship",
-      "country": "",
-      "home": {
-        "id": "395",
-        "name": "Watford"
-      },
-      "away": {
-        "id": "365",
-        "name": "Blackburn Rovers"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Vicarage Road",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401880138",
-      "sport": "soccer",
-      "league": "Championship",
-      "country": "",
-      "home": {
-        "id": "336",
-        "name": "Stoke City"
-      },
-      "away": {
-        "id": "391",
-        "name": "Millwall"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "bet365 Stadium",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -817,27 +1153,6 @@
       "watch_links": []
     },
     {
-      "id": "401841319",
-      "sport": "soccer",
-      "league": "Brasileirão",
-      "country": "",
-      "home": {
-        "id": "7632",
-        "name": "Atlético-MG"
-      },
-      "away": {
-        "id": "874",
-        "name": "Corinthians"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Arena MRV",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "401931986",
       "sport": "soccer",
       "league": "Liga MX",
@@ -918,195 +1233,6 @@
       "status_detail": "Scheduled",
       "score": null,
       "venue": "America First Field",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915378",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "21922",
-        "name": "Sabah FK"
-      },
-      "away": {
-        "id": "83",
-        "name": "Barcelona"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Baku Olympic Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915293",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "494",
-        "name": "Slavia Prague"
-      },
-      "away": {
-        "id": "102",
-        "name": "Villarreal"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Fortuna Arena",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915291",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "1068",
-        "name": "Atlético Madrid"
-      },
-      "away": {
-        "id": "510",
-        "name": "Viking FK"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Riyadh Air Metropolitano",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915292",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "570",
-        "name": "Club Brugge"
-      },
-      "away": {
-        "id": "364",
-        "name": "Liverpool"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Jan Breydel Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915376",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "110",
-        "name": "Internazionale"
-      },
-      "away": {
-        "id": "134",
-        "name": "VfB Stuttgart"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "San Siro",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915377",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "166",
-        "name": "Lille"
-      },
-      "away": {
-        "id": "132",
-        "name": "Bayern Munich"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Decathlon Arena - Stade Pierre-Mauroy",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915374",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "160",
-        "name": "Paris Saint-Germain"
-      },
-      "away": {
-        "id": "104",
-        "name": "AS Roma"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Parc des Princes",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915375",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "493",
-        "name": "Shakhtar Donetsk"
-      },
-      "away": {
-        "id": "436",
-        "name": "Fenerbahce"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Stamford Bridge",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401915373",
-      "sport": "soccer",
-      "league": "Champions League",
-      "country": "",
-      "home": {
-        "id": "2250",
-        "name": "Sporting CP"
-      },
-      "away": {
-        "id": "360",
-        "name": "Manchester United"
-      },
-      "start_time": null,
-      "status": "upcoming",
-      "status_detail": "Scheduled",
-      "score": null,
-      "venue": "Estádio José Alvalade",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -1510,6 +1636,90 @@
       "watch_links": []
     },
     {
+      "id": "401880140",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "358",
+        "name": "Bolton Wanderers"
+      },
+      "away": {
+        "id": "383",
+        "name": "West Bromwich Albion"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Toughsheet Community Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880139",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "379",
+        "name": "Burnley"
+      },
+      "away": {
+        "id": "392",
+        "name": "Birmingham City"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Turf Moor",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880137",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "395",
+        "name": "Watford"
+      },
+      "away": {
+        "id": "365",
+        "name": "Blackburn Rovers"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Vicarage Road",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401880138",
+      "sport": "soccer",
+      "league": "Championship",
+      "country": "",
+      "home": {
+        "id": "336",
+        "name": "Stoke City"
+      },
+      "away": {
+        "id": "391",
+        "name": "Millwall"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "bet365 Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
       "id": "401934232",
       "sport": "soccer",
       "league": "NWSL",
@@ -1527,6 +1737,195 @@
       "status_detail": "FT",
       "score": null,
       "venue": "Audi Field",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915378",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "21922",
+        "name": "Sabah FK"
+      },
+      "away": {
+        "id": "83",
+        "name": "Barcelona"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Baku Olympic Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915293",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "494",
+        "name": "Slavia Prague"
+      },
+      "away": {
+        "id": "102",
+        "name": "Villarreal"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Fortuna Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915291",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "1068",
+        "name": "Atlético Madrid"
+      },
+      "away": {
+        "id": "510",
+        "name": "Viking FK"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Riyadh Air Metropolitano",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915292",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "570",
+        "name": "Club Brugge"
+      },
+      "away": {
+        "id": "364",
+        "name": "Liverpool"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Jan Breydel Stadium",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915376",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "110",
+        "name": "Internazionale"
+      },
+      "away": {
+        "id": "134",
+        "name": "VfB Stuttgart"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "San Siro",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915377",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "166",
+        "name": "Lille"
+      },
+      "away": {
+        "id": "132",
+        "name": "Bayern Munich"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915374",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "160",
+        "name": "Paris Saint-Germain"
+      },
+      "away": {
+        "id": "104",
+        "name": "AS Roma"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Parc des Princes",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915375",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "493",
+        "name": "Shakhtar Donetsk"
+      },
+      "away": {
+        "id": "436",
+        "name": "Fenerbahce"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Stamford Bridge",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401915373",
+      "sport": "soccer",
+      "league": "Champions League",
+      "country": "",
+      "home": {
+        "id": "2250",
+        "name": "Sporting CP"
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United"
+      },
+      "start_time": null,
+      "status": "finished",
+      "status_detail": "FT",
+      "score": null,
+      "venue": "Estádio José Alvalade",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -1573,27 +1972,6 @@
       "watch_links": []
     },
     {
-      "id": "1525663",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1525663-1",
-        "name": "South Africa"
-      },
-      "away": {
-        "id": "1525663-2",
-        "name": "Bangladesh"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "BAN is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1544878",
       "sport": "cricket",
       "league": "Cricket",
@@ -1615,42 +1993,42 @@
       "watch_links": []
     },
     {
-      "id": "1557572",
+      "id": "1546785",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1557572-1",
-        "name": "Ireland Women"
+        "id": "1546785-1",
+        "name": "Hyderabad (India)"
       },
       "away": {
-        "id": "1557572-2",
-        "name": "Sri Lanka Women"
+        "id": "1546785-2",
+        "name": "Odisha"
       },
       "start_time": null,
-      "status": "live",
-      "status_detail": "SLW is batting",
+      "status": "upcoming",
+      "status_detail": "Hyderabad (India) v Odisha",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1558241",
+      "id": "1562354",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1558241-1",
-        "name": "Zimbabwe A"
+        "id": "1562354-1",
+        "name": "India A"
       },
       "away": {
-        "id": "1558241-2",
-        "name": "Ireland A"
+        "id": "1562354-2",
+        "name": "Sri Lanka A"
       },
       "start_time": null,
-      "status": "live",
-      "status_detail": "IA is batting",
+      "status": "upcoming",
+      "status_detail": "India A v Sri Lanka A",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
