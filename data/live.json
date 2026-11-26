@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T06:42:52.206153+00:00",
+  "updated_at": "2026-11-26T17:30:22.725111+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 2,
+  "count": 4,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,27 +19,6 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "1544877",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1544877-1",
-        "name": "Western Australia"
-      },
-      "away": {
-        "id": "1544877-2",
-        "name": "Tasmania"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "TAS is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1544878",
       "sport": "cricket",
       "league": "Cricket",
@@ -55,6 +34,69 @@
       "start_time": null,
       "status": "live",
       "status_detail": "SA is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1546785",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1546785-1",
+        "name": "Hyderabad (India)"
+      },
+      "away": {
+        "id": "1546785-2",
+        "name": "Odisha"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "H( is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1562354",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1562354-1",
+        "name": "India A"
+      },
+      "away": {
+        "id": "1562354-2",
+        "name": "Sri Lanka A"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "SLA is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1554271",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1554271-1",
+        "name": "India Women Under-19s"
+      },
+      "away": {
+        "id": "1554271-2",
+        "name": "England Women Under-19s"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "EWU is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
