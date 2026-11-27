@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T01:28:09.119651+00:00",
+  "updated_at": "2026-11-27T10:00:17.271208+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
   "count": 4,
   "sports_requested": [
@@ -19,48 +19,6 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401873080",
-      "sport": "football",
-      "league": "NFL",
-      "country": "",
-      "home": {
-        "id": "6",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "id": "21",
-        "name": "Philadelphia Eagles"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "0:15 - 4th",
-      "score": null,
-      "venue": "AT&T Stadium",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "401931982",
-      "sport": "soccer",
-      "league": "Liga MX",
-      "country": "",
-      "home": {
-        "id": "234",
-        "name": "Pachuca"
-      },
-      "away": {
-        "id": "219",
-        "name": "Guadalajara"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "25'",
-      "score": null,
-      "venue": "Estadio Hidalgo",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
       "id": "1544878",
       "sport": "cricket",
       "league": "Cricket",
@@ -75,7 +33,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "SA is batting",
+      "status_detail": "VIC is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
@@ -97,6 +55,48 @@
       "start_time": null,
       "status": "live",
       "status_detail": "NZ is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1558242",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1558242-1",
+        "name": "Zimbabwe A"
+      },
+      "away": {
+        "id": "1558242-2",
+        "name": "Ireland A"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "IA is batting",
+      "score": null,
+      "venue": "",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "1528708",
+      "sport": "cricket",
+      "league": "Cricket",
+      "country": "",
+      "home": {
+        "id": "1528708-1",
+        "name": "Australia"
+      },
+      "away": {
+        "id": "1528708-2",
+        "name": "England"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "ENG is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
