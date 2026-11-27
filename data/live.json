@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T10:00:17.271208+00:00",
+  "updated_at": "2026-11-27T19:34:23.773201+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 4,
+  "count": 9,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,23 +19,128 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "1544878",
-      "sport": "cricket",
-      "league": "Cricket",
+      "id": "401884720",
+      "sport": "soccer",
+      "league": "Bundesliga",
       "country": "",
       "home": {
-        "id": "1544878-1",
-        "name": "South Australia"
+        "id": "137",
+        "name": "Werder Bremen"
       },
       "away": {
-        "id": "1544878-2",
-        "name": "Victoria"
+        "id": "268",
+        "name": "Borussia Mönchengladbach"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "VIC is batting",
+      "status_detail": "4'",
       "score": null,
-      "venue": "",
+      "venue": "Weserstadion",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401875536",
+      "sport": "soccer",
+      "league": "Eredivisie",
+      "country": "",
+      "home": {
+        "id": "145",
+        "name": "FC Groningen"
+      },
+      "away": {
+        "id": "156",
+        "name": "Willem II"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "31'",
+      "score": null,
+      "venue": "Euroborg",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892795",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "1",
+        "name": "Boston Bruins"
+      },
+      "away": {
+        "id": "21",
+        "name": "Toronto Maple Leafs"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "5:21 - 2nd",
+      "score": null,
+      "venue": "TD Garden",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892796",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "11",
+        "name": "New Jersey Devils"
+      },
+      "away": {
+        "id": "3",
+        "name": "Calgary Flames"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "1:54 - 2nd",
+      "score": null,
+      "venue": "Prudential Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892797",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "27",
+        "name": "Nashville Predators"
+      },
+      "away": {
+        "id": "129764",
+        "name": "Utah Mammoth"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "4:16 - 2nd",
+      "score": null,
+      "venue": "Bridgestone Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892798",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "19",
+        "name": "St. Louis Blues"
+      },
+      "away": {
+        "id": "9",
+        "name": "Dallas Stars"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "6:47 - 1st",
+      "score": null,
+      "venue": "Enterprise Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -75,28 +180,28 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "IA is batting",
+      "status_detail": "ZA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "1528708",
+      "id": "1562355",
       "sport": "cricket",
       "league": "Cricket",
       "country": "",
       "home": {
-        "id": "1528708-1",
-        "name": "Australia"
+        "id": "1562355-1",
+        "name": "Bangladesh A"
       },
       "away": {
-        "id": "1528708-2",
-        "name": "England"
+        "id": "1562355-2",
+        "name": "Pakistan A"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "ENG is batting",
+      "status_detail": "PA is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
