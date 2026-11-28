@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T19:34:23.773201+00:00",
+  "updated_at": "2026-11-28T02:27:56.915722+00:00",
   "source": "https://kiwi-sports.mak2st.workers.dev",
-  "count": 9,
+  "count": 12,
   "sports_requested": [
     "basketball",
     "soccer",
@@ -19,128 +19,233 @@
   "notice": "Coverage depends on upstream provider; stream links appear only when manually supplied as authorized.",
   "matches": [
     {
-      "id": "401884720",
-      "sport": "soccer",
-      "league": "Bundesliga",
+      "id": "401909326",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "137",
-        "name": "Werder Bremen"
+        "id": "18",
+        "name": "New York Knicks"
       },
       "away": {
-        "id": "268",
-        "name": "Borussia Mönchengladbach"
+        "id": "14",
+        "name": "Miami Heat"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "4'",
+      "status_detail": "2:46 - 4th",
       "score": null,
-      "venue": "Weserstadion",
+      "venue": "Madison Square Garden",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401875536",
-      "sport": "soccer",
-      "league": "Eredivisie",
+      "id": "401909327",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "145",
-        "name": "FC Groningen"
+        "id": "8",
+        "name": "Detroit Pistons"
       },
       "away": {
-        "id": "156",
-        "name": "Willem II"
+        "id": "15",
+        "name": "Milwaukee Bucks"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "31'",
+      "status_detail": "End of 3rd",
       "score": null,
-      "venue": "Euroborg",
+      "venue": "Little Caesars Arena",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401892795",
-      "sport": "hockey",
-      "league": "NHL",
+      "id": "401909328",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
+        "id": "11",
+        "name": "Indiana Pacers"
+      },
+      "away": {
+        "id": "20",
+        "name": "Philadelphia 76ers"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "40.0 - 3rd",
+      "score": null,
+      "venue": "Gainbridge Fieldhouse",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909329",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "28",
+        "name": "Toronto Raptors"
+      },
+      "away": {
+        "id": "17",
+        "name": "Brooklyn Nets"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "21.4 - 3rd",
+      "score": null,
+      "venue": "Scotiabank Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401909330",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "",
+      "home": {
+        "id": "2",
+        "name": "Boston Celtics"
+      },
+      "away": {
         "id": "1",
-        "name": "Boston Bruins"
-      },
-      "away": {
-        "id": "21",
-        "name": "Toronto Maple Leafs"
+        "name": "Atlanta Hawks"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "5:21 - 2nd",
+      "status_detail": "7:41 - 3rd",
       "score": null,
       "venue": "TD Garden",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401892796",
-      "sport": "hockey",
-      "league": "NHL",
+      "id": "401909331",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "11",
-        "name": "New Jersey Devils"
+        "id": "16",
+        "name": "Minnesota Timberwolves"
       },
       "away": {
-        "id": "3",
-        "name": "Calgary Flames"
+        "id": "29",
+        "name": "Memphis Grizzlies"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "1:54 - 2nd",
+      "status_detail": "2:51 - 2nd",
       "score": null,
-      "venue": "Prudential Center",
+      "venue": "Target Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401892797",
-      "sport": "hockey",
-      "league": "NHL",
+      "id": "401909332",
+      "sport": "basketball",
+      "league": "NBA",
       "country": "",
       "home": {
-        "id": "27",
-        "name": "Nashville Predators"
+        "id": "21",
+        "name": "Phoenix Suns"
       },
       "away": {
-        "id": "129764",
-        "name": "Utah Mammoth"
+        "id": "6",
+        "name": "Dallas Mavericks"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "4:16 - 2nd",
+      "status_detail": "5:07 - 1st",
       "score": null,
-      "venue": "Bridgestone Arena",
+      "venue": "Mortgage Matchup Center",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
     {
-      "id": "401892798",
+      "id": "401892807",
       "sport": "hockey",
       "league": "NHL",
       "country": "",
       "home": {
-        "id": "19",
-        "name": "St. Louis Blues"
+        "id": "12",
+        "name": "New York Islanders"
       },
       "away": {
-        "id": "9",
-        "name": "Dallas Stars"
+        "id": "28",
+        "name": "Winnipeg Jets"
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "6:47 - 1st",
+      "status_detail": "End of 2nd",
       "score": null,
-      "venue": "Enterprise Center",
+      "venue": "UBS Arena",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892808",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "2",
+        "name": "Buffalo Sabres"
+      },
+      "away": {
+        "id": "16",
+        "name": "Pittsburgh Penguins"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "13:48 - 2nd",
+      "score": null,
+      "venue": "KeyBank Center",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401892809",
+      "sport": "hockey",
+      "league": "NHL",
+      "country": "",
+      "home": {
+        "id": "6",
+        "name": "Edmonton Oilers"
+      },
+      "away": {
+        "id": "124292",
+        "name": "Seattle Kraken"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "7:58 - 2nd",
+      "score": null,
+      "venue": "Rogers Place",
+      "source": "Kiwi Sports API",
+      "watch_links": []
+    },
+    {
+      "id": "401933727",
+      "sport": "soccer",
+      "league": "MLS",
+      "country": "",
+      "home": {
+        "id": "183",
+        "name": "Columbus Crew"
+      },
+      "away": {
+        "id": "20232",
+        "name": "Inter Miami CF"
+      },
+      "start_time": null,
+      "status": "live",
+      "status_detail": "53'",
+      "score": null,
+      "venue": "ScottsMiracle-Gro Field",
       "source": "Kiwi Sports API",
       "watch_links": []
     },
@@ -159,49 +264,7 @@
       },
       "start_time": null,
       "status": "live",
-      "status_detail": "NZ is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1558242",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1558242-1",
-        "name": "Zimbabwe A"
-      },
-      "away": {
-        "id": "1558242-2",
-        "name": "Ireland A"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "ZA is batting",
-      "score": null,
-      "venue": "",
-      "source": "Kiwi Sports API",
-      "watch_links": []
-    },
-    {
-      "id": "1562355",
-      "sport": "cricket",
-      "league": "Cricket",
-      "country": "",
-      "home": {
-        "id": "1562355-1",
-        "name": "Bangladesh A"
-      },
-      "away": {
-        "id": "1562355-2",
-        "name": "Pakistan A"
-      },
-      "start_time": null,
-      "status": "live",
-      "status_detail": "PA is batting",
+      "status_detail": "IND is batting",
       "score": null,
       "venue": "",
       "source": "Kiwi Sports API",
